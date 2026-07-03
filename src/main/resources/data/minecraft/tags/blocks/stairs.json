@@ -82,6 +82,13 @@
     "tastytiles:verdant_cut_heart_tile_stairs",
     "tastytiles:verdant_cut_circle_tile_stairs",
     "tastytiles:verdant_cut_triangle_tile_stairs",
-    "tastytiles:verdant_cut_square_tile_stairs"
+    "tastytiles:verdant_cut_square_tile_stairs",
+    "tastytiles:jet_cut_tile_stairs",
+    "tastytiles:jet_cut_split_tile_stairs",
+    "tastytiles:jet_cut_diamond_tile_stairs",
+    "tastytiles:jet_cut_heart_tile_stairs",
+    "tastytiles:jet_cut_circle_tile_stairs",
+    "tastytiles:jet_cut_triangle_tile_stairs",
+    "tastytiles:jet_cut_square_tile_stairs"
   ]
 }

@@ -657,5 +657,61 @@
 
   "block.tastytiles.verdant_cut_square_tile_wall": "Verdant Cut Square Tile Wall",
 
+  "block.tastytiles.jet_cut_tile": "Jet Cut Tile",
+
+  "block.tastytiles.jet_cut_tile_slab": "Jet Cut Tile Slab",
+
+  "block.tastytiles.jet_cut_tile_stairs": "Jet Cut Tile Stairs",
+
+  "block.tastytiles.jet_cut_tile_wall": "Jet Cut Tile Wall",
+
+  "block.tastytiles.jet_cut_split_tile": "Jet Cut Split Tile",
+
+  "block.tastytiles.jet_cut_split_tile_slab": "Jet Cut Split Tile Slab",
+
+  "block.tastytiles.jet_cut_split_tile_stairs": "Jet Cut Split Tile Stairs",
+
+  "block.tastytiles.jet_cut_split_tile_wall": "Jet Cut Split Tile Wall",
+
+  "block.tastytiles.jet_cut_diamond_tile": "Jet Cut Diamond Tile",
+
+  "block.tastytiles.jet_cut_diamond_tile_slab": "Jet Cut Diamond Tile Slab",
+
+  "block.tastytiles.jet_cut_diamond_tile_stairs": "Jet Cut Diamond Tile Stairs",
+
+  "block.tastytiles.jet_cut_diamond_tile_wall": "Jet Cut Diamond Tile Wall",
+
+  "block.tastytiles.jet_cut_heart_tile": "Jet Cut Heart Tile",
+
+  "block.tastytiles.jet_cut_heart_tile_slab": "Jet Cut Heart Tile Slab",
+
+  "block.tastytiles.jet_cut_heart_tile_stairs": "Jet Cut Heart Tile Stairs",
+
+  "block.tastytiles.jet_cut_heart_tile_wall": "Jet Cut Heart Tile Wall",
+
+  "block.tastytiles.jet_cut_circle_tile": "Jet Cut Circle Tile",
+
+  "block.tastytiles.jet_cut_circle_tile_slab": "Jet Cut Circle Tile Slab",
+
+  "block.tastytiles.jet_cut_circle_tile_stairs": "Jet Cut Circle Tile Stairs",
+
+  "block.tastytiles.jet_cut_circle_tile_wall": "Jet Cut Circle Tile Wall",
+
+  "block.tastytiles.jet_cut_triangle_tile": "Jet Cut Triangle Tile",
+
+  "block.tastytiles.jet_cut_triangle_tile_slab": "Jet Cut Triangle Tile Slab",
+
+  "block.tastytiles.jet_cut_triangle_tile_stairs": "Jet Cut Triangle Tile Stairs",
+
+  "block.tastytiles.jet_cut_triangle_tile_wall": "Jet Cut Triangle Tile Wall",
+
+  "block.tastytiles.jet_cut_square_tile": "Jet Cut Square Tile",
+
+  "block.tastytiles.jet_cut_square_tile_slab": "Jet Cut Square Tile Slab",
+
+  "block.tastytiles.jet_cut_square_tile_stairs": "Jet Cut Square Tile Stairs",
+
+  "block.tastytiles.jet_cut_square_tile_wall": "Jet Cut Square Tile Wall",
+
   "creativetab.tasty_tiles_tab": "Tasty Tiles Tab"
 }

@@ -1325,6 +1325,118 @@ public class ModBlocks {
     public static final RegistryObject<Block> VERDANT_CUT_SQUARE_TILE_WALL = registerBlock("verdant_cut_square_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
 
+    //JET CUT TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> JET_CUT_TILE = registerBlock("jet_cut_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.YELLOW_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_TILE_SLAB = registerBlock("jet_cut_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_TILE_STAIRS = registerBlock("jet_cut_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.JET_CUT_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> JET_CUT_TILE_WALL = registerBlock("jet_cut_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //JET CUT SPLIT TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> JET_CUT_SPLIT_TILE = registerBlock("jet_cut_split_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.YELLOW_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_SPLIT_TILE_SLAB = registerBlock("jet_cut_split_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_SPLIT_TILE_STAIRS = registerBlock("jet_cut_split_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.JET_CUT_SPLIT_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> JET_CUT_SPLIT_TILE_WALL = registerBlock("jet_cut_split_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //JET CUT DIAMOND TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> JET_CUT_DIAMOND_TILE = registerBlock("jet_cut_diamond_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.YELLOW_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_DIAMOND_TILE_SLAB = registerBlock("jet_cut_diamond_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_DIAMOND_TILE_STAIRS = registerBlock("jet_cut_diamond_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.JET_CUT_DIAMOND_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> JET_CUT_DIAMOND_TILE_WALL = registerBlock("jet_cut_diamond_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //JET CUT HEART TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> JET_CUT_HEART_TILE = registerBlock("jet_cut_heart_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.YELLOW_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_HEART_TILE_SLAB = registerBlock("jet_cut_heart_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_HEART_TILE_STAIRS = registerBlock("jet_cut_heart_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.JET_CUT_HEART_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> JET_CUT_HEART_TILE_WALL = registerBlock("jet_cut_heart_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //JET CUT CIRCLE TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> JET_CUT_CIRCLE_TILE = registerBlock("jet_cut_circle_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.YELLOW_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_CIRCLE_TILE_SLAB = registerBlock("jet_cut_circle_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_CIRCLE_TILE_STAIRS = registerBlock("jet_cut_circle_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.JET_CUT_CIRCLE_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> JET_CUT_CIRCLE_TILE_WALL = registerBlock("jet_cut_circle_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //JET CUT TRIANGLE TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> JET_CUT_TRIANGLE_TILE = registerBlock("jet_cut_triangle_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.YELLOW_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_TRIANGLE_TILE_SLAB = registerBlock("jet_cut_triangle_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_TRIANGLE_TILE_STAIRS = registerBlock("jet_cut_triangle_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.JET_CUT_TRIANGLE_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> JET_CUT_TRIANGLE_TILE_WALL = registerBlock("jet_cut_triangle_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //JET CUT SQUARE TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> JET_CUT_SQUARE_TILE = registerBlock("jet_cut_square_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.YELLOW_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_SQUARE_TILE_SLAB = registerBlock("jet_cut_square_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> JET_CUT_SQUARE_TILE_STAIRS = registerBlock("jet_cut_square_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.JET_CUT_SQUARE_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> JET_CUT_SQUARE_TILE_WALL = registerBlock("jet_cut_square_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
     //Functions for making this actually work
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T>block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

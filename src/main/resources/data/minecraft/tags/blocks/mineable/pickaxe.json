@@ -375,6 +375,41 @@
     "tastytiles:choco_cut_square_tile",
     "tastytiles:choco_cut_square_tile_slab",
     "tastytiles:choco_cut_square_tile_stairs",
-    "tastytiles:choco_cut_square_tile_wall"
+    "tastytiles:choco_cut_square_tile_wall",
+
+    "tastytiles:verdant_cut_tile",
+    "tastytiles:verdant_cut_tile_slab",
+    "tastytiles:verdant_cut_tile_stairs",
+    "tastytiles:verdant_cut_tile_wall",
+
+    "tastytiles:verdant_cut_split_tile",
+    "tastytiles:verdant_cut_split_tile_slab",
+    "tastytiles:verdant_cut_split_tile_stairs",
+    "tastytiles:verdant_cut_split_tile_wall",
+
+    "tastytiles:verdant_cut_diamond_tile",
+    "tastytiles:verdant_cut_diamond_tile_slab",
+    "tastytiles:verdant_cut_diamond_tile_stairs",
+    "tastytiles:verdant_cut_diamond_tile_wall",
+
+    "tastytiles:verdant_cut_heart_tile",
+    "tastytiles:verdant_cut_heart_tile_slab",
+    "tastytiles:verdant_cut_heart_tile_stairs",
+    "tastytiles:verdant_cut_heart_tile_wall",
+
+    "tastytiles:verdant_cut_circle_tile",
+    "tastytiles:verdant_cut_circle_tile_slab",
+    "tastytiles:verdant_cut_circle_tile_stairs",
+    "tastytiles:verdant_cut_circle_tile_wall",
+
+    "tastytiles:verdant_cut_triangle_tile",
+    "tastytiles:verdant_cut_triangle_tile_slab",
+    "tastytiles:verdant_cut_triangle_tile_stairs",
+    "tastytiles:verdant_cut_triangle_tile_wall",
+
+    "tastytiles:verdant_cut_square_tile",
+    "tastytiles:verdant_cut_square_tile_slab",
+    "tastytiles:verdant_cut_square_tile_stairs",
+    "tastytiles:verdant_cut_square_tile_wall"
   ]
 }

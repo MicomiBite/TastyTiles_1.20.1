@@ -365,6 +365,34 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.CHOCO_CUT_SQUARE_TILE_STAIRS.get()), blockTexture(ModBlocks.CHOCO_CUT_SQUARE_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.CHOCO_CUT_SQUARE_TILE_WALL.get()), blockTexture(ModBlocks.CHOCO_CUT_SQUARE_TILE.get()));
 
+        genSixSBI(ModBlocks.VERDANT_CUT_TILE.get(), buildSimpleBlockWithRenderType("verdant_cut_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.VERDANT_CUT_TILE_STAIRS.get()), blockTexture(ModBlocks.VERDANT_CUT_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.VERDANT_CUT_TILE_WALL.get()), blockTexture(ModBlocks.VERDANT_CUT_TILE.get()));
+
+        genSixSBI(ModBlocks.VERDANT_CUT_SPLIT_TILE.get(), buildSimpleBlockWithRenderType("verdant_cut_split_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.VERDANT_CUT_SPLIT_TILE_STAIRS.get()), blockTexture(ModBlocks.VERDANT_CUT_SPLIT_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.VERDANT_CUT_SPLIT_TILE_WALL.get()), blockTexture(ModBlocks.VERDANT_CUT_SPLIT_TILE.get()));
+
+        genSixSBI(ModBlocks.VERDANT_CUT_DIAMOND_TILE.get(), buildSimpleBlockWithRenderType("verdant_cut_diamond_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.VERDANT_CUT_DIAMOND_TILE_STAIRS.get()), blockTexture(ModBlocks.VERDANT_CUT_DIAMOND_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.VERDANT_CUT_DIAMOND_TILE_WALL.get()), blockTexture(ModBlocks.VERDANT_CUT_DIAMOND_TILE.get()));
+
+        genSixSBI(ModBlocks.VERDANT_CUT_HEART_TILE.get(), buildSimpleBlockWithRenderType("verdant_cut_heart_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.VERDANT_CUT_HEART_TILE_STAIRS.get()), blockTexture(ModBlocks.VERDANT_CUT_HEART_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.VERDANT_CUT_HEART_TILE_WALL.get()), blockTexture(ModBlocks.VERDANT_CUT_HEART_TILE.get()));
+
+        genSixSBI(ModBlocks.VERDANT_CUT_CIRCLE_TILE.get(), buildSimpleBlockWithRenderType("verdant_cut_circle_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.VERDANT_CUT_CIRCLE_TILE_STAIRS.get()), blockTexture(ModBlocks.VERDANT_CUT_CIRCLE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.VERDANT_CUT_CIRCLE_TILE_WALL.get()), blockTexture(ModBlocks.VERDANT_CUT_CIRCLE_TILE.get()));
+
+        genSixSBI(ModBlocks.VERDANT_CUT_TRIANGLE_TILE.get(), buildSimpleBlockWithRenderType("verdant_cut_triangle_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.VERDANT_CUT_TRIANGLE_TILE_STAIRS.get()), blockTexture(ModBlocks.VERDANT_CUT_TRIANGLE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.VERDANT_CUT_TRIANGLE_TILE_WALL.get()), blockTexture(ModBlocks.VERDANT_CUT_TRIANGLE_TILE.get()));
+
+        genSixSBI(ModBlocks.VERDANT_CUT_SQUARE_TILE.get(), buildSimpleBlockWithRenderType("verdant_cut_square_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.VERDANT_CUT_SQUARE_TILE_STAIRS.get()), blockTexture(ModBlocks.VERDANT_CUT_SQUARE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.VERDANT_CUT_SQUARE_TILE_WALL.get()), blockTexture(ModBlocks.VERDANT_CUT_SQUARE_TILE.get()));
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

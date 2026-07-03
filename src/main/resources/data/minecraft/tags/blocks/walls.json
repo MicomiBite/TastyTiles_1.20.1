@@ -76,6 +76,13 @@
     "tastytiles:choco_cut_heart_tile_wall",
     "tastytiles:choco_cut_circle_tile_wall",
     "tastytiles:choco_cut_triangle_tile_wall",
-    "tastytiles:choco_cut_square_tile_wall"
+    "tastytiles:choco_cut_square_tile_wall",
+    "tastytiles:verdant_cut_tile_wall",
+    "tastytiles:verdant_cut_split_tile_wall",
+    "tastytiles:verdant_cut_diamond_tile_wall",
+    "tastytiles:verdant_cut_heart_tile_wall",
+    "tastytiles:verdant_cut_circle_tile_wall",
+    "tastytiles:verdant_cut_triangle_tile_wall",
+    "tastytiles:verdant_cut_square_tile_wall"
   ]
 }

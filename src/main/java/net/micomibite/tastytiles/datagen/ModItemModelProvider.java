@@ -177,6 +177,20 @@ public class ModItemModelProvider extends ItemModelProvider {
         wallSixItem(ModBlocks.CHOCO_CUT_TRIANGLE_TILE_WALL, ModBlocks.CHOCO_CUT_TRIANGLE_TILE);
         evenSimplerBlockItem(ModBlocks.CHOCO_CUT_SQUARE_TILE_STAIRS);
         wallSixItem(ModBlocks.CHOCO_CUT_SQUARE_TILE_WALL, ModBlocks.CHOCO_CUT_SQUARE_TILE);
+        evenSimplerBlockItem(ModBlocks.VERDANT_CUT_TILE_STAIRS);
+        wallSixItem(ModBlocks.VERDANT_CUT_TILE_WALL, ModBlocks.VERDANT_CUT_TILE);
+        evenSimplerBlockItem(ModBlocks.VERDANT_CUT_SPLIT_TILE_STAIRS);
+        wallSixItem(ModBlocks.VERDANT_CUT_SPLIT_TILE_WALL, ModBlocks.VERDANT_CUT_SPLIT_TILE);
+        evenSimplerBlockItem(ModBlocks.VERDANT_CUT_DIAMOND_TILE_STAIRS);
+        wallSixItem(ModBlocks.VERDANT_CUT_DIAMOND_TILE_WALL, ModBlocks.VERDANT_CUT_DIAMOND_TILE);
+        evenSimplerBlockItem(ModBlocks.VERDANT_CUT_HEART_TILE_STAIRS);
+        wallSixItem(ModBlocks.VERDANT_CUT_HEART_TILE_WALL, ModBlocks.VERDANT_CUT_HEART_TILE);
+        evenSimplerBlockItem(ModBlocks.VERDANT_CUT_CIRCLE_TILE_STAIRS);
+        wallSixItem(ModBlocks.VERDANT_CUT_CIRCLE_TILE_WALL, ModBlocks.VERDANT_CUT_CIRCLE_TILE);
+        evenSimplerBlockItem(ModBlocks.VERDANT_CUT_TRIANGLE_TILE_STAIRS);
+        wallSixItem(ModBlocks.VERDANT_CUT_TRIANGLE_TILE_WALL, ModBlocks.VERDANT_CUT_TRIANGLE_TILE);
+        evenSimplerBlockItem(ModBlocks.VERDANT_CUT_SQUARE_TILE_STAIRS);
+        wallSixItem(ModBlocks.VERDANT_CUT_SQUARE_TILE_WALL, ModBlocks.VERDANT_CUT_SQUARE_TILE);
 
     }
 

@@ -638,6 +638,62 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.CHOCO_CUT_SQUARE_TILE_WALL.get());
 
+            pOutput.accept(ModBlocks.VERDANT_CUT_TILE.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_SPLIT_TILE.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_SPLIT_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_SPLIT_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_SPLIT_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_DIAMOND_TILE.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_DIAMOND_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_DIAMOND_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_DIAMOND_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_HEART_TILE.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_HEART_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_HEART_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_HEART_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_CIRCLE_TILE.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_CIRCLE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_CIRCLE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_CIRCLE_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_TRIANGLE_TILE.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_TRIANGLE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_TRIANGLE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_TRIANGLE_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_SQUARE_TILE.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_SQUARE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_SQUARE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.VERDANT_CUT_SQUARE_TILE_WALL.get());
+
         })
         .build());
 

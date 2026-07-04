@@ -223,6 +223,24 @@ public class ModItemModelProvider extends ItemModelProvider {
         wallItem(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_WALL, ModBlocks.WHITE_AZULEJO_DIAMOND_TILE);
         evenSimplerBlockItem(ModBlocks.WHITE_AZULEJO_LINED_TILE_STAIRS);
         wallItem(ModBlocks.WHITE_AZULEJO_LINED_TILE_WALL, ModBlocks.WHITE_AZULEJO_LINED_TILE);
+        evenSimplerBlockItem(ModBlocks.BLUE_AZULEJO_TILE_STAIRS);
+        wallItem(ModBlocks.BLUE_AZULEJO_TILE_WALL, ModBlocks.BLUE_AZULEJO_TILE);
+        evenSimplerBlockItem(ModBlocks.BLUE_AZULEJO_FLORAL_TILE_STAIRS);
+        wallItem(ModBlocks.BLUE_AZULEJO_FLORAL_TILE_WALL, ModBlocks.BLUE_AZULEJO_FLORAL_TILE);
+        evenSimplerBlockItem(ModBlocks.BLUE_AZULEJO_REFINED_TILE_STAIRS);
+        wallItem(ModBlocks.BLUE_AZULEJO_REFINED_TILE_WALL, ModBlocks.BLUE_AZULEJO_REFINED_TILE);
+        evenSimplerBlockItem(ModBlocks.BLUE_AZULEJO_SQUARED_TILE_STAIRS);
+        wallItem(ModBlocks.BLUE_AZULEJO_SQUARED_TILE_WALL, ModBlocks.BLUE_AZULEJO_SQUARED_TILE);
+        evenSimplerBlockItem(ModBlocks.BLUE_AZULEJO_FISHY_TILE_STAIRS);
+        wallItem(ModBlocks.BLUE_AZULEJO_FISHY_TILE_WALL, ModBlocks.BLUE_AZULEJO_FISHY_TILE);
+        evenSimplerBlockItem(ModBlocks.BLUE_AZULEJO_SHELL_TILE_STAIRS);
+        wallItem(ModBlocks.BLUE_AZULEJO_SHELL_TILE_WALL, ModBlocks.BLUE_AZULEJO_SHELL_TILE);
+        evenSimplerBlockItem(ModBlocks.BLUE_AZULEJO_CROSS_TILE_STAIRS);
+        wallItem(ModBlocks.BLUE_AZULEJO_CROSS_TILE_WALL, ModBlocks.BLUE_AZULEJO_CROSS_TILE);
+        evenSimplerBlockItem(ModBlocks.BLUE_AZULEJO_DIAMOND_TILE_STAIRS);
+        wallItem(ModBlocks.BLUE_AZULEJO_DIAMOND_TILE_WALL, ModBlocks.BLUE_AZULEJO_DIAMOND_TILE);
+        evenSimplerBlockItem(ModBlocks.BLUE_AZULEJO_LINED_TILE_STAIRS);
+        wallItem(ModBlocks.BLUE_AZULEJO_LINED_TILE_WALL, ModBlocks.BLUE_AZULEJO_LINED_TILE);
 
     }
 

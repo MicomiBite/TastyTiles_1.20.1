@@ -822,6 +822,78 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.WHITE_AZULEJO_LINED_TILE_WALL.get());
 
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_TILE.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_FLORAL_TILE.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_FLORAL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_FLORAL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_FLORAL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_REFINED_TILE.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_REFINED_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_REFINED_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_REFINED_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_SQUARED_TILE.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_SQUARED_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_SQUARED_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_SQUARED_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_FISHY_TILE.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_FISHY_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_FISHY_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_FISHY_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_SHELL_TILE.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_SHELL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_SHELL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_SHELL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_CROSS_TILE.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_CROSS_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_CROSS_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_CROSS_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_DIAMOND_TILE.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_DIAMOND_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_DIAMOND_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_DIAMOND_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_LINED_TILE.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_LINED_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_LINED_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.BLUE_AZULEJO_LINED_TILE_WALL.get());
+
         })
         .build());
 

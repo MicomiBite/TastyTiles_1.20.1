@@ -250,9 +250,9 @@ public class ModItemModelProvider extends ItemModelProvider {
         evenSimplerBlockItem(ModBlocks.SANDY_RING_TILE_STAIRS);
         wallSixItem(ModBlocks.SANDY_RING_TILE_WALL, ModBlocks.SANDY_RING_TILE);
         evenSimplerBlockItem(ModBlocks.SANDY_LINED_TILE_STAIRS);
-        wallSixItem(ModBlocks.SANDY_LINED_TILE_WALL, ModBlocks.SANDY_LINED_TILE);
+        wallItem(ModBlocks.SANDY_LINED_TILE_WALL, ModBlocks.SANDY_LINED_TILE);
         evenSimplerBlockItem(ModBlocks.SANDY_STRIKE_TILE_STAIRS);
-        wallSixItem(ModBlocks.SANDY_STRIKE_TILE_WALL, ModBlocks.SANDY_STRIKE_TILE);
+        wallItem(ModBlocks.SANDY_STRIKE_TILE_WALL, ModBlocks.SANDY_STRIKE_TILE);
         evenSimplerBlockItem(ModBlocks.SANDY_WAVE_TILE_STAIRS);
         wallSixItem(ModBlocks.SANDY_WAVE_TILE_WALL, ModBlocks.SANDY_WAVE_TILE);
         evenSimplerBlockItem(ModBlocks.SANDY_SHELL_TILE_STAIRS);

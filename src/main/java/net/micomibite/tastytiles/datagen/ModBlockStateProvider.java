@@ -509,11 +509,11 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.SANDY_RING_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_RING_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.SANDY_RING_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_RING_TILE.get()));
 
-        genSixSBI(ModBlocks.SANDY_LINED_TILE.get(), buildSimpleBlockWithRenderType("sandy_lined_tile", "solid") );
+        genPillarRotationSBI((RotatedPillarBlock) ModBlocks.SANDY_LINED_TILE.get(), buildSimpleBlockWithRenderType("sandy_lined_tile", "solid") );
         stairsBlock(((StairBlock) ModBlocks.SANDY_LINED_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_LINED_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.SANDY_LINED_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_LINED_TILE.get()));
 
-        genSixSBI(ModBlocks.SANDY_STRIKE_TILE.get(), buildSimpleBlockWithRenderType("sandy_strike_tile", "solid") );
+        genPillarRotationSBI((RotatedPillarBlock) ModBlocks.SANDY_STRIKE_TILE.get(), buildSimpleBlockWithRenderType("sandy_strike_tile", "solid") );
         stairsBlock(((StairBlock) ModBlocks.SANDY_STRIKE_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_STRIKE_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.SANDY_STRIKE_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_STRIKE_TILE.get()));
 

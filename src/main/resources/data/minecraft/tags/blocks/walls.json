@@ -90,6 +90,8 @@
     "tastytiles:jet_cut_heart_tile_wall",
     "tastytiles:jet_cut_circle_tile_wall",
     "tastytiles:jet_cut_triangle_tile_wall",
-    "tastytiles:jet_cut_square_tile_wall"
+    "tastytiles:jet_cut_square_tile_wall",
+    "tastytiles:white_azulejo_tile_wall",
+    "tastytiles:white_azulejo_floral_tile_wall"
   ]
 }

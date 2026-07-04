@@ -421,6 +421,14 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.JET_CUT_SQUARE_TILE_STAIRS.get()), blockTexture(ModBlocks.JET_CUT_SQUARE_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.JET_CUT_SQUARE_TILE_WALL.get()), blockTexture(ModBlocks.JET_CUT_SQUARE_TILE.get()));
 
+        blockWithItem(ModBlocks.WHITE_AZULEJO_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_TILE.get()));
+
+        blockWithItem(ModBlocks.WHITE_AZULEJO_FLORAL_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_FLORAL_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_FLORAL_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_FLORAL_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_FLORAL_TILE.get()));
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

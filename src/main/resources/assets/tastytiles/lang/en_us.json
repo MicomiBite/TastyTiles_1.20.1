@@ -713,5 +713,21 @@
 
   "block.tastytiles.jet_cut_square_tile_wall": "Jet Cut Square Tile Wall",
 
+  "block.tastytiles.white_azulejo_tile": "White Azulejo Tile",
+
+  "block.tastytiles.white_azulejo_tile_slab": "White Azulejo Tile Slab",
+
+  "block.tastytiles.white_azulejo_tile_stairs": "White Azulejo Tile Stairs",
+
+  "block.tastytiles.white_azulejo_tile_wall": "White Azulejo Tile Wall",
+
+  "block.tastytiles.white_azulejo_floral_tile": "White Azulejo Floral Tile",
+
+  "block.tastytiles.white_azulejo_floral_tile_slab": "White Azulejo Floral Tile Slab",
+
+  "block.tastytiles.white_azulejo_floral_tile_stairs": "White Azulejo Floral Tile Stairs",
+
+  "block.tastytiles.white_azulejo_floral_tile_wall": "White Azulejo Floral Tile Wall",
+
   "creativetab.tasty_tiles_tab": "Tasty Tiles Tab"
 }

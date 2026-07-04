@@ -205,6 +205,10 @@ public class ModItemModelProvider extends ItemModelProvider {
         wallSixItem(ModBlocks.JET_CUT_TRIANGLE_TILE_WALL, ModBlocks.JET_CUT_TRIANGLE_TILE);
         evenSimplerBlockItem(ModBlocks.JET_CUT_SQUARE_TILE_STAIRS);
         wallSixItem(ModBlocks.JET_CUT_SQUARE_TILE_WALL, ModBlocks.JET_CUT_SQUARE_TILE);
+        evenSimplerBlockItem(ModBlocks.WHITE_AZULEJO_TILE_STAIRS);
+        wallItem(ModBlocks.WHITE_AZULEJO_TILE_WALL, ModBlocks.WHITE_AZULEJO_TILE);
+        evenSimplerBlockItem(ModBlocks.WHITE_AZULEJO_FLORAL_TILE_STAIRS);
+        wallItem(ModBlocks.WHITE_AZULEJO_FLORAL_TILE_WALL, ModBlocks.WHITE_AZULEJO_FLORAL_TILE);
 
     }
 

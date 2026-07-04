@@ -1437,6 +1437,36 @@ public class ModBlocks {
     public static final RegistryObject<Block> JET_CUT_SQUARE_TILE_WALL = registerBlock("jet_cut_square_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
 
+    //WHITE AZULEJO TILES
+    public static final RegistryObject<Block> WHITE_AZULEJO_TILE = registerBlock("white_azulejo_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> WHITE_AZULEJO_TILE_SLAB = registerBlock("white_azulejo_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> WHITE_AZULEJO_TILE_STAIRS = registerBlock("white_azulejo_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.WHITE_AZULEJO_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> WHITE_AZULEJO_TILE_WALL = registerBlock("white_azulejo_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //WHITE AZULEJO FLORAL TILES
+    public static final RegistryObject<Block> WHITE_AZULEJO_FLORAL_TILE = registerBlock("white_azulejo_floral_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> WHITE_AZULEJO_FLORAL_TILE_SLAB = registerBlock("white_azulejo_floral_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> WHITE_AZULEJO_FLORAL_TILE_STAIRS = registerBlock("white_azulejo_floral_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.WHITE_AZULEJO_FLORAL_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> WHITE_AZULEJO_FLORAL_TILE_WALL = registerBlock("white_azulejo_floral_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
     //Functions for making this actually work
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T>block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

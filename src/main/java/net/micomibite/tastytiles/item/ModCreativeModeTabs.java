@@ -902,6 +902,62 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.SANDY_TILE_WALL.get());
 
+            pOutput.accept(ModBlocks.SANDY_MOROCCAN_TILE.get());
+
+            pOutput.accept(ModBlocks.SANDY_MOROCCAN_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.SANDY_MOROCCAN_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.SANDY_MOROCCAN_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.SANDY_SQUARED_TILE.get());
+
+            pOutput.accept(ModBlocks.SANDY_SQUARED_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.SANDY_SQUARED_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.SANDY_SQUARED_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.SANDY_RING_TILE.get());
+
+            pOutput.accept(ModBlocks.SANDY_RING_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.SANDY_RING_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.SANDY_RING_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.SANDY_LINED_TILE.get());
+
+            pOutput.accept(ModBlocks.SANDY_LINED_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.SANDY_LINED_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.SANDY_LINED_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.SANDY_STRIKE_TILE.get());
+
+            pOutput.accept(ModBlocks.SANDY_STRIKE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.SANDY_STRIKE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.SANDY_STRIKE_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.SANDY_WAVE_TILE.get());
+
+            pOutput.accept(ModBlocks.SANDY_WAVE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.SANDY_WAVE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.SANDY_WAVE_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.SANDY_SHELL_TILE.get());
+
+            pOutput.accept(ModBlocks.SANDY_SHELL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.SANDY_SHELL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.SANDY_SHELL_TILE_WALL.get());
+
         })
         .build());
 

@@ -1725,6 +1725,118 @@ public class ModBlocks {
     public static final RegistryObject<Block> SANDY_TILE_WALL = registerBlock("sandy_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
 
+    //SANDY MOROCCAN TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> SANDY_MOROCCAN_TILE = registerBlock("sandy_moroccan_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_MOROCCAN_TILE_SLAB = registerBlock("sandy_moroccan_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_MOROCCAN_TILE_STAIRS = registerBlock("sandy_moroccan_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.SANDY_MOROCCAN_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> SANDY_MOROCCAN_TILE_WALL = registerBlock("sandy_moroccan_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //SANDY SQUARED TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> SANDY_SQUARED_TILE = registerBlock("sandy_squared_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_SQUARED_TILE_SLAB = registerBlock("sandy_squared_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_SQUARED_TILE_STAIRS = registerBlock("sandy_squared_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.SANDY_SQUARED_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> SANDY_SQUARED_TILE_WALL = registerBlock("sandy_squared_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //SANDY RING TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> SANDY_RING_TILE = registerBlock("sandy_ring_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_RING_TILE_SLAB = registerBlock("sandy_ring_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_RING_TILE_STAIRS = registerBlock("sandy_ring_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.SANDY_RING_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> SANDY_RING_TILE_WALL = registerBlock("sandy_ring_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //SANDY LINED TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> SANDY_LINED_TILE = registerBlock("sandy_lined_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_LINED_TILE_SLAB = registerBlock("sandy_lined_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_LINED_TILE_STAIRS = registerBlock("sandy_lined_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.SANDY_LINED_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> SANDY_LINED_TILE_WALL = registerBlock("sandy_lined_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //SANDY STRIKE TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> SANDY_STRIKE_TILE = registerBlock("sandy_strike_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_STRIKE_TILE_SLAB = registerBlock("sandy_strike_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_STRIKE_TILE_STAIRS = registerBlock("sandy_strike_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.SANDY_STRIKE_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> SANDY_STRIKE_TILE_WALL = registerBlock("sandy_strike_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //SANDY WAVE TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> SANDY_WAVE_TILE = registerBlock("sandy_wave_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_WAVE_TILE_SLAB = registerBlock("sandy_wave_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_WAVE_TILE_STAIRS = registerBlock("sandy_wave_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.SANDY_WAVE_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> SANDY_WAVE_TILE_WALL = registerBlock("sandy_wave_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //SANDY SHELL TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> SANDY_SHELL_TILE = registerBlock("sandy_shell_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_SHELL_TILE_SLAB = registerBlock("sandy_shell_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_SHELL_TILE_STAIRS = registerBlock("sandy_shell_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.SANDY_SHELL_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> SANDY_SHELL_TILE_WALL = registerBlock("sandy_shell_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
 
     //Functions for making this actually work
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T>block) {

@@ -865,5 +865,61 @@
 
   "block.tastytiles.sandy_tile_wall": "Sandy Tile Wall",
 
+  "block.tastytiles.sandy_moroccan_tile": "Sandy Moroccan Tile",
+
+  "block.tastytiles.sandy_moroccan_tile_slab": "Sandy Moroccan Tile Slab",
+
+  "block.tastytiles.sandy_moroccan_tile_stairs": "Sandy Moroccan Tile Stairs",
+
+  "block.tastytiles.sandy_moroccan_tile_wall": "Sandy Moroccan Tile Wall",
+
+  "block.tastytiles.sandy_squared_tile": "Sandy Squared Tile",
+
+  "block.tastytiles.sandy_squared_tile_slab": "Sandy Squared Tile Slab",
+
+  "block.tastytiles.sandy_squared_tile_stairs": "Sandy Squared Tile Stairs",
+
+  "block.tastytiles.sandy_squared_tile_wall": "Sandy Squared Tile Wall",
+
+  "block.tastytiles.sandy_ring_tile": "Sandy Ring Tile",
+
+  "block.tastytiles.sandy_ring_tile_slab": "Sandy Ring Tile Slab",
+
+  "block.tastytiles.sandy_ring_tile_stairs": "Sandy Ring Tile Stairs",
+
+  "block.tastytiles.sandy_ring_tile_wall": "Sandy Ring Tile Wall",
+
+  "block.tastytiles.sandy_lined_tile": "Sandy Lined Tile",
+
+  "block.tastytiles.sandy_lined_tile_slab": "Sandy Lined Tile Slab",
+
+  "block.tastytiles.sandy_lined_tile_stairs": "Sandy Lined Tile Stairs",
+
+  "block.tastytiles.sandy_lined_tile_wall": "Sandy Lined Tile Wall",
+
+  "block.tastytiles.sandy_strike_tile": "Sandy Strike Tile",
+
+  "block.tastytiles.sandy_strike_tile_slab": "Sandy Strike Tile Slab",
+
+  "block.tastytiles.sandy_strike_tile_stairs": "Sandy Strike Tile Stairs",
+
+  "block.tastytiles.sandy_strike_tile_wall": "Sandy Strike Tile Wall",
+
+  "block.tastytiles.sandy_wave_tile": "Sandy Wave Tile",
+
+  "block.tastytiles.sandy_wave_tile_slab": "Sandy Wave Tile Slab",
+
+  "block.tastytiles.sandy_wave_tile_stairs": "Sandy Wave Tile Stairs",
+
+  "block.tastytiles.sandy_wave_tile_wall": "Sandy Wave Tile Wall",
+
+  "block.tastytiles.sandy_shell_tile": "Sandy Shell Tile",
+
+  "block.tastytiles.sandy_shell_tile_slab": "Sandy Shell Tile Slab",
+
+  "block.tastytiles.sandy_shell_tile_stairs": "Sandy Shell Tile Stairs",
+
+  "block.tastytiles.sandy_shell_tile_wall": "Sandy Shell Tile Wall",
+
   "creativetab.tasty_tiles_tab": "Tasty Tiles Tab"
 }

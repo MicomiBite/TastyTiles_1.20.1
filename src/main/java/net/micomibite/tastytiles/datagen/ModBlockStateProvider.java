@@ -497,6 +497,34 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.SANDY_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.SANDY_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_TILE.get()));
 
+        genSixSBI(ModBlocks.SANDY_MOROCCAN_TILE.get(), buildSimpleBlockWithRenderType("sandy_moroccan_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.SANDY_MOROCCAN_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_MOROCCAN_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.SANDY_MOROCCAN_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_MOROCCAN_TILE.get()));
+
+        genSixSBI(ModBlocks.SANDY_SQUARED_TILE.get(), buildSimpleBlockWithRenderType("sandy_squared_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.SANDY_SQUARED_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_SQUARED_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.SANDY_SQUARED_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_SQUARED_TILE.get()));
+
+        genSixSBI(ModBlocks.SANDY_RING_TILE.get(), buildSimpleBlockWithRenderType("sandy_ring_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.SANDY_RING_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_RING_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.SANDY_RING_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_RING_TILE.get()));
+
+        genSixSBI(ModBlocks.SANDY_LINED_TILE.get(), buildSimpleBlockWithRenderType("sandy_lined_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.SANDY_LINED_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_LINED_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.SANDY_LINED_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_LINED_TILE.get()));
+
+        genSixSBI(ModBlocks.SANDY_STRIKE_TILE.get(), buildSimpleBlockWithRenderType("sandy_strike_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.SANDY_STRIKE_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_STRIKE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.SANDY_STRIKE_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_STRIKE_TILE.get()));
+
+        genSixSBI(ModBlocks.SANDY_WAVE_TILE.get(), buildSimpleBlockWithRenderType("sandy_wave_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.SANDY_WAVE_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_WAVE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.SANDY_WAVE_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_WAVE_TILE.get()));
+
+        genSixSBI(ModBlocks.SANDY_SHELL_TILE.get(), buildSimpleBlockWithRenderType("sandy_shell_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.SANDY_SHELL_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_SHELL_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.SANDY_SHELL_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_SHELL_TILE.get()));
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

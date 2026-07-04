@@ -108,6 +108,13 @@
     "tastytiles:blue_azulejo_cross_tile_stairs",
     "tastytiles:blue_azulejo_diamond_tile_stairs",
     "tastytiles:blue_azulejo_lined_tile_stairs",
-    "tastytiles:sandy_tile_stairs"
+    "tastytiles:sandy_tile_stairs",
+    "tastytiles:sandy_moroccan_tile_stairs",
+    "tastytiles:sandy_squared_tile_stairs",
+    "tastytiles:sandy_ring_tile_stairs",
+    "tastytiles:sandy_lined_tile_stairs",
+    "tastytiles:sandy_strike_tile_stairs",
+    "tastytiles:sandy_wave_tile_stairs",
+    "tastytiles:sandy_shell_tile_stairs"
   ]
 }

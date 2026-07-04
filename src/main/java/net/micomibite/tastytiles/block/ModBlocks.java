@@ -1557,6 +1557,23 @@ public class ModBlocks {
     public static final RegistryObject<Block> WHITE_AZULEJO_DIAMOND_TILE_WALL = registerBlock("white_azulejo_diamond_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
 
+    //WHITE AZULEJO LINED TILE
+    public static final RegistryObject<Block> WHITE_AZULEJO_LINED_TILE = registerBlock("white_azulejo_lined_tile",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.QUARTZ_PILLAR).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> WHITE_AZULEJO_LINED_TILE_SLAB = registerBlock("white_azulejo_lined_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> WHITE_AZULEJO_LINED_TILE_STAIRS = registerBlock("white_azulejo_lined_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.WHITE_AZULEJO_LINED_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> WHITE_AZULEJO_LINED_TILE_WALL = registerBlock("white_azulejo_lined_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+
     //Functions for making this actually work
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T>block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

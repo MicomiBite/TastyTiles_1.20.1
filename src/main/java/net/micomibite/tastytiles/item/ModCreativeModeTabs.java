@@ -814,6 +814,14 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_WALL.get());
 
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_LINED_TILE.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_LINED_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_LINED_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_LINED_TILE_WALL.get());
+
         })
         .build());
 

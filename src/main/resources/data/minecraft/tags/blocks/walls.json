@@ -98,6 +98,7 @@
     "tastytiles:white_azulejo_fishy_tile_wall",
     "tastytiles:white_azulejo_shell_tile_wall",
     "tastytiles:white_azulejo_cross_tile_wall",
-    "tastytiles:white_azulejo_diamond_tile_wall"
+    "tastytiles:white_azulejo_diamond_tile_wall",
+    "tastytiles:white_azulejo_lined_tile_wall"
   ]
 }

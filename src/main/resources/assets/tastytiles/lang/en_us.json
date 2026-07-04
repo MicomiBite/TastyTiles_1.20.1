@@ -777,5 +777,13 @@
 
   "block.tastytiles.white_azulejo_diamond_tile_wall": "White Azulejo Diamond Tile Wall",
 
+  "block.tastytiles.white_azulejo_lined_tile": "White Azulejo Lined Tile",
+
+  "block.tastytiles.white_azulejo_lined_tile_slab": "White Azulejo Lined Tile Slab",
+
+  "block.tastytiles.white_azulejo_lined_tile_stairs": "White Azulejo Lined Tile Stairs",
+
+  "block.tastytiles.white_azulejo_lined_tile_wall": "White Azulejo Lined Tile Wall",
+
   "creativetab.tasty_tiles_tab": "Tasty Tiles Tab"
 }

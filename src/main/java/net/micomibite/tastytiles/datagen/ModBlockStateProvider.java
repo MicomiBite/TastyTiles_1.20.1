@@ -453,6 +453,10 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE.get()));
 
+        genPillarRotationSBI((RotatedPillarBlock) ModBlocks.WHITE_AZULEJO_LINED_TILE.get(), buildSimpleBlockWithRenderType("white_azulejo_lined_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_LINED_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_LINED_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_LINED_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_LINED_TILE.get()));
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

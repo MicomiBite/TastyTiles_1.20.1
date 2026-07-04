@@ -221,6 +221,8 @@ public class ModItemModelProvider extends ItemModelProvider {
         wallItem(ModBlocks.WHITE_AZULEJO_CROSS_TILE_WALL, ModBlocks.WHITE_AZULEJO_CROSS_TILE);
         evenSimplerBlockItem(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_STAIRS);
         wallItem(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_WALL, ModBlocks.WHITE_AZULEJO_DIAMOND_TILE);
+        evenSimplerBlockItem(ModBlocks.WHITE_AZULEJO_LINED_TILE_STAIRS);
+        wallItem(ModBlocks.WHITE_AZULEJO_LINED_TILE_WALL, ModBlocks.WHITE_AZULEJO_LINED_TILE);
 
     }
 

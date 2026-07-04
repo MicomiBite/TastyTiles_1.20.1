@@ -485,6 +485,11 @@
     "tastytiles:white_azulejo_diamond_tile",
     "tastytiles:white_azulejo_diamond_tile_slab",
     "tastytiles:white_azulejo_diamond_tile_stairs",
-    "tastytiles:white_azulejo_diamond_tile_wall"
+    "tastytiles:white_azulejo_diamond_tile_wall",
+
+    "tastytiles:white_azulejo_lined_tile",
+    "tastytiles:white_azulejo_lined_tile_slab",
+    "tastytiles:white_azulejo_lined_tile_stairs",
+    "tastytiles:white_azulejo_lined_tile_wall"
   ]
 }

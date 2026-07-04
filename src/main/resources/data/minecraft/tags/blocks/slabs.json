@@ -108,6 +108,7 @@
     "tastytiles:blue_azulejo_shell_tile_slab",
     "tastytiles:blue_azulejo_cross_tile_slab",
     "tastytiles:blue_azulejo_diamond_tile_slab",
-    "tastytiles:blue_azulejo_lined_tile_slab"
+    "tastytiles:blue_azulejo_lined_tile_slab",
+    "tastytiles:sandy_tile_slab"
   ]
 }

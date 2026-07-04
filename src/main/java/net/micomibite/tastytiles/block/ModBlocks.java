@@ -1709,6 +1709,22 @@ public class ModBlocks {
     public static final RegistryObject<Block> BLUE_AZULEJO_LINED_TILE_WALL = registerBlock("blue_azulejo_lined_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
 
+    //SANDY TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> SANDY_TILE = registerBlock("sandy_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_TILE_SLAB = registerBlock("sandy_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> SANDY_TILE_STAIRS = registerBlock("sandy_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.SANDY_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> SANDY_TILE_WALL = registerBlock("sandy_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
 
     //Functions for making this actually work
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T>block) {

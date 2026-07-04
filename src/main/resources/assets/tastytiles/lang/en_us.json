@@ -857,5 +857,13 @@
 
   "block.tastytiles.blue_azulejo_lined_tile_wall": "Blue Azulejo Lined Tile Wall",
 
+  "block.tastytiles.sandy_tile": "Sandy Tile",
+
+  "block.tastytiles.sandy_tile_slab": "Sandy Tile Slab",
+
+  "block.tastytiles.sandy_tile_stairs": "Sandy Tile Stairs",
+
+  "block.tastytiles.sandy_tile_wall": "Sandy Tile Wall",
+
   "creativetab.tasty_tiles_tab": "Tasty Tiles Tab"
 }

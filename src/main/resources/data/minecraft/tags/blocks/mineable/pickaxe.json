@@ -535,6 +535,11 @@
     "tastytiles:blue_azulejo_lined_tile",
     "tastytiles:blue_azulejo_lined_tile_slab",
     "tastytiles:blue_azulejo_lined_tile_stairs",
-    "tastytiles:blue_azulejo_lined_tile_wall"
+    "tastytiles:blue_azulejo_lined_tile_wall",
+
+    "tastytiles:sandy_tile",
+    "tastytiles:sandy_tile_slab",
+    "tastytiles:sandy_tile_stairs",
+    "tastytiles:sandy_tile_wall"
   ]
 }

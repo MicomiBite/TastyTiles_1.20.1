@@ -493,6 +493,10 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.BLUE_AZULEJO_LINED_TILE_STAIRS.get()), blockTexture(ModBlocks.BLUE_AZULEJO_LINED_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.BLUE_AZULEJO_LINED_TILE_WALL.get()), blockTexture(ModBlocks.BLUE_AZULEJO_LINED_TILE.get()));
 
+        genSixSBI(ModBlocks.SANDY_TILE.get(), buildSimpleBlockWithRenderType("sandy_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.SANDY_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.SANDY_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_TILE.get()));
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

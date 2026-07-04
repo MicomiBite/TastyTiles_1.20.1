@@ -429,6 +429,30 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_FLORAL_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_FLORAL_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_FLORAL_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_FLORAL_TILE.get()));
 
+        blockWithItem(ModBlocks.WHITE_AZULEJO_REFINED_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_REFINED_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_REFINED_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_REFINED_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_REFINED_TILE.get()));
+
+        blockWithItem(ModBlocks.WHITE_AZULEJO_SQUARED_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_SQUARED_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_SQUARED_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_SQUARED_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_SQUARED_TILE.get()));
+
+        blockWithItem(ModBlocks.WHITE_AZULEJO_FISHY_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_FISHY_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_FISHY_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_FISHY_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_FISHY_TILE.get()));
+
+        blockWithItem(ModBlocks.WHITE_AZULEJO_SHELL_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_SHELL_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_SHELL_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_SHELL_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_SHELL_TILE.get()));
+
+        blockWithItem(ModBlocks.WHITE_AZULEJO_CROSS_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_CROSS_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_CROSS_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_CROSS_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_CROSS_TILE.get()));
+
+        blockWithItem(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_STAIRS.get()), blockTexture(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_WALL.get()), blockTexture(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE.get()));
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

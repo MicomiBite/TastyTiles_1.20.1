@@ -766,6 +766,54 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.WHITE_AZULEJO_FLORAL_TILE_WALL.get());
 
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_REFINED_TILE.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_REFINED_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_REFINED_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_REFINED_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_SQUARED_TILE.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_SQUARED_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_SQUARED_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_SQUARED_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_FISHY_TILE.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_FISHY_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_FISHY_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_FISHY_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_SHELL_TILE.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_SHELL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_SHELL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_SHELL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_CROSS_TILE.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_CROSS_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_CROSS_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_CROSS_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WHITE_AZULEJO_DIAMOND_TILE_WALL.get());
+
         })
         .build());
 

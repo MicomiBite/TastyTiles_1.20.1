@@ -257,6 +257,24 @@ public class ModItemModelProvider extends ItemModelProvider {
         wallSixItem(ModBlocks.SANDY_WAVE_TILE_WALL, ModBlocks.SANDY_WAVE_TILE);
         evenSimplerBlockItem(ModBlocks.SANDY_SHELL_TILE_STAIRS);
         wallSixItem(ModBlocks.SANDY_SHELL_TILE_WALL, ModBlocks.SANDY_SHELL_TILE);
+        evenSimplerBlockItem(ModBlocks.WARM_TILE_STAIRS);
+        wallItem(ModBlocks.WARM_TILE_WALL, ModBlocks.WARM_TILE);
+        evenSimplerBlockItem(ModBlocks.WARM_PATTERN_TILE_STAIRS);
+        wallItem(ModBlocks.WARM_PATTERN_TILE_WALL, ModBlocks.WARM_PATTERN_TILE);
+        evenSimplerBlockItem(ModBlocks.WARM_KNIT_TILE_STAIRS);
+        wallItem(ModBlocks.WARM_KNIT_TILE_WALL, ModBlocks.WARM_KNIT_TILE);
+        evenSimplerBlockItem(ModBlocks.WARM_CROSS_TILE_STAIRS);
+        wallItem(ModBlocks.WARM_CROSS_TILE_WALL, ModBlocks.WARM_CROSS_TILE);
+        evenSimplerBlockItem(ModBlocks.WARM_CHECKER_TILE_STAIRS);
+        wallItem(ModBlocks.WARM_CHECKER_TILE_WALL, ModBlocks.WARM_CHECKER_TILE);
+        evenSimplerBlockItem(ModBlocks.WARM_STEP_TILE_STAIRS);
+        wallItem(ModBlocks.WARM_STEP_TILE_WALL, ModBlocks.WARM_STEP_TILE);
+        evenSimplerBlockItem(ModBlocks.WARM_CRISS_TILE_STAIRS);
+        wallItem(ModBlocks.WARM_CRISS_TILE_WALL, ModBlocks.WARM_CRISS_TILE);
+        evenSimplerBlockItem(ModBlocks.WARM_FLAKE_TILE_STAIRS);
+        wallItem(ModBlocks.WARM_FLAKE_TILE_WALL, ModBlocks.WARM_FLAKE_TILE);
+        evenSimplerBlockItem(ModBlocks.WARM_EDGE_TILE_STAIRS);
+        wallItem(ModBlocks.WARM_EDGE_TILE_WALL, ModBlocks.WARM_EDGE_TILE);
 
     }
 

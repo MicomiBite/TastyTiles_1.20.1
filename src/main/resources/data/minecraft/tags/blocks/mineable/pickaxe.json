@@ -167,6 +167,16 @@
     "tastytiles:dark_full_pretti_tile_stairs",
     "tastytiles:dark_full_pretti_tile_wall",
 
+    "tastytiles:crisp_apple_tile",
+    "tastytiles:crisp_apple_tile_slab",
+    "tastytiles:crisp_apple_tile_stairs",
+    "tastytiles:crisp_apple_tile_wall",
+
+    "tastytiles:crisp_ripe_apple_tile",
+    "tastytiles:crisp_ripe_apple_tile_slab",
+    "tastytiles:crisp_ripe_apple_tile_stairs",
+    "tastytiles:crisp_ripe_apple_tile_wall",
+
     "tastytiles:crisp_orange_tile",
     "tastytiles:crisp_orange_tile_slab",
     "tastytiles:crisp_orange_tile_stairs",

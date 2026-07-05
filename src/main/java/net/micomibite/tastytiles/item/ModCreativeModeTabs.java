@@ -1030,6 +1030,78 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.WARM_EDGE_TILE_WALL.get());
 
+            pOutput.accept(ModBlocks.LAVENDER_TILE.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_PATTERN_TILE.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_PATTERN_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_PATTERN_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_PATTERN_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_KNIT_TILE.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_KNIT_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_KNIT_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_KNIT_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CROSS_TILE.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CROSS_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CROSS_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CROSS_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CHECKER_TILE.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CHECKER_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CHECKER_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CHECKER_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_STEP_TILE.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_STEP_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_STEP_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_STEP_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CRISS_TILE.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CRISS_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CRISS_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_CRISS_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_FLAKE_TILE.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_FLAKE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_FLAKE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_FLAKE_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_EDGE_TILE.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_EDGE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_EDGE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.LAVENDER_EDGE_TILE_WALL.get());
+
         })
         .build());
 

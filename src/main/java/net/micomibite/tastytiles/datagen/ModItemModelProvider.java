@@ -275,6 +275,24 @@ public class ModItemModelProvider extends ItemModelProvider {
         wallItem(ModBlocks.WARM_FLAKE_TILE_WALL, ModBlocks.WARM_FLAKE_TILE);
         evenSimplerBlockItem(ModBlocks.WARM_EDGE_TILE_STAIRS);
         wallItem(ModBlocks.WARM_EDGE_TILE_WALL, ModBlocks.WARM_EDGE_TILE);
+        evenSimplerBlockItem(ModBlocks.LAVENDER_TILE_STAIRS);
+        wallItem(ModBlocks.LAVENDER_TILE_WALL, ModBlocks.LAVENDER_TILE);
+        evenSimplerBlockItem(ModBlocks.LAVENDER_PATTERN_TILE_STAIRS);
+        wallItem(ModBlocks.LAVENDER_PATTERN_TILE_WALL, ModBlocks.LAVENDER_PATTERN_TILE);
+        evenSimplerBlockItem(ModBlocks.LAVENDER_KNIT_TILE_STAIRS);
+        wallItem(ModBlocks.LAVENDER_KNIT_TILE_WALL, ModBlocks.LAVENDER_KNIT_TILE);
+        evenSimplerBlockItem(ModBlocks.LAVENDER_CROSS_TILE_STAIRS);
+        wallItem(ModBlocks.LAVENDER_CROSS_TILE_WALL, ModBlocks.LAVENDER_CROSS_TILE);
+        evenSimplerBlockItem(ModBlocks.LAVENDER_CHECKER_TILE_STAIRS);
+        wallItem(ModBlocks.LAVENDER_CHECKER_TILE_WALL, ModBlocks.LAVENDER_CHECKER_TILE);
+        evenSimplerBlockItem(ModBlocks.LAVENDER_STEP_TILE_STAIRS);
+        wallItem(ModBlocks.LAVENDER_STEP_TILE_WALL, ModBlocks.LAVENDER_STEP_TILE);
+        evenSimplerBlockItem(ModBlocks.LAVENDER_CRISS_TILE_STAIRS);
+        wallItem(ModBlocks.LAVENDER_CRISS_TILE_WALL, ModBlocks.LAVENDER_CRISS_TILE);
+        evenSimplerBlockItem(ModBlocks.LAVENDER_FLAKE_TILE_STAIRS);
+        wallItem(ModBlocks.LAVENDER_FLAKE_TILE_WALL, ModBlocks.LAVENDER_FLAKE_TILE);
+        evenSimplerBlockItem(ModBlocks.LAVENDER_EDGE_TILE_STAIRS);
+        wallItem(ModBlocks.LAVENDER_EDGE_TILE_WALL, ModBlocks.LAVENDER_EDGE_TILE);
 
     }
 

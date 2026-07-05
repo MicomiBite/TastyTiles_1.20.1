@@ -993,5 +993,77 @@
 
   "block.tastytiles.warm_edge_tile_wall": "Warm Edge Tile Wall",
 
+  "block.tastytiles.lavender_tile": "Lavender Tile",
+
+  "block.tastytiles.lavender_tile_slab": "Lavender Tile Slab",
+
+  "block.tastytiles.lavender_tile_stairs": "Lavender Tile Stairs",
+
+  "block.tastytiles.lavender_tile_wall": "Lavender Tile Wall",
+
+  "block.tastytiles.lavender_pattern_tile": "Lavender Pattern Tile",
+
+  "block.tastytiles.lavender_pattern_tile_slab": "Lavender Pattern Tile Slab",
+
+  "block.tastytiles.lavender_pattern_tile_stairs": "Lavender Pattern Tile Stairs",
+
+  "block.tastytiles.lavender_pattern_tile_wall": "Lavender Pattern Tile Wall",
+
+  "block.tastytiles.lavender_knit_tile": "Lavender Knit Tile",
+
+  "block.tastytiles.lavender_knit_tile_slab": "Lavender Knit Tile Slab",
+
+  "block.tastytiles.lavender_knit_tile_stairs": "Lavender Knit Tile Stairs",
+
+  "block.tastytiles.lavender_knit_tile_wall": "Lavender Knit Tile Wall",
+
+  "block.tastytiles.lavender_cross_tile": "Lavender Cross Tile",
+
+  "block.tastytiles.lavender_cross_tile_slab": "Lavender Cross Tile Slab",
+
+  "block.tastytiles.lavender_cross_tile_stairs": "Lavender Cross Tile Stairs",
+
+  "block.tastytiles.lavender_cross_tile_wall": "Lavender Cross Tile Wall",
+
+  "block.tastytiles.lavender_checker_tile": "Lavender Checker Tile",
+
+  "block.tastytiles.lavender_checker_tile_slab": "Lavender Checker Tile Slab",
+
+  "block.tastytiles.lavender_checker_tile_stairs": "Lavender Checker Tile Stairs",
+
+  "block.tastytiles.lavender_checker_tile_wall": "Lavender Checker Tile Wall",
+
+  "block.tastytiles.lavender_step_tile": "Lavender Step Tile",
+
+  "block.tastytiles.lavender_step_tile_slab": "Lavender Step Tile Slab",
+
+  "block.tastytiles.lavender_step_tile_stairs": "Lavender Step Tile Stairs",
+
+  "block.tastytiles.lavender_step_tile_wall": "Lavender Step Tile Wall",
+
+  "block.tastytiles.lavender_criss_tile": "Lavender Criss Tile",
+
+  "block.tastytiles.lavender_criss_tile_slab": "Lavender Criss Tile Slab",
+
+  "block.tastytiles.lavender_criss_tile_stairs": "Lavender Criss Tile Stairs",
+
+  "block.tastytiles.lavender_criss_tile_wall": "Lavender Criss Tile Wall",
+
+  "block.tastytiles.lavender_flake_tile": "Lavender Flake Tile",
+
+  "block.tastytiles.lavender_flake_tile_slab": "Lavender Flake Tile Slab",
+
+  "block.tastytiles.lavender_flake_tile_stairs": "Lavender Flake Tile Stairs",
+
+  "block.tastytiles.lavender_flake_tile_wall": "Lavender Flake Tile Wall",
+
+  "block.tastytiles.lavender_edge_tile": "Lavender Edge Tile",
+
+  "block.tastytiles.lavender_edge_tile_slab": "Lavender Edge Tile Slab",
+
+  "block.tastytiles.lavender_edge_tile_stairs": "Lavender Edge Tile Stairs",
+
+  "block.tastytiles.lavender_edge_tile_wall": "Lavender Edge Tile Wall",
+
   "creativetab.tasty_tiles_tab": "Tasty Tiles Tab"
 }

@@ -1972,6 +1972,141 @@ public class ModBlocks {
     public static final RegistryObject<Block> WARM_EDGE_TILE_WALL = registerBlock("warm_edge_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
 
+    //LAVENDER TILES
+    public static final RegistryObject<Block> LAVENDER_TILE = registerBlock("lavender_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_TILE_SLAB = registerBlock("lavender_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> LAVENDER_TILE_STAIRS = registerBlock("lavender_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.LAVENDER_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_TILE_WALL = registerBlock("lavender_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //LAVENDER PATTERN TILES
+    public static final RegistryObject<Block> LAVENDER_PATTERN_TILE = registerBlock("lavender_pattern_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_PATTERN_TILE_SLAB = registerBlock("lavender_pattern_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> LAVENDER_PATTERN_TILE_STAIRS = registerBlock("lavender_pattern_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.LAVENDER_PATTERN_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_PATTERN_TILE_WALL = registerBlock("lavender_pattern_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //LAVENDER KNIT TILES
+    public static final RegistryObject<Block> LAVENDER_KNIT_TILE = registerBlock("lavender_knit_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_KNIT_TILE_SLAB = registerBlock("lavender_knit_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> LAVENDER_KNIT_TILE_STAIRS = registerBlock("lavender_knit_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.LAVENDER_KNIT_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_KNIT_TILE_WALL = registerBlock("lavender_knit_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //LAVENDER CROSS TILES
+    public static final RegistryObject<Block> LAVENDER_CROSS_TILE = registerBlock("lavender_cross_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_CROSS_TILE_SLAB = registerBlock("lavender_cross_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> LAVENDER_CROSS_TILE_STAIRS = registerBlock("lavender_cross_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.LAVENDER_CROSS_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_CROSS_TILE_WALL = registerBlock("lavender_cross_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //LAVENDER CHECKER TILES
+    public static final RegistryObject<Block> LAVENDER_CHECKER_TILE = registerBlock("lavender_checker_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_CHECKER_TILE_SLAB = registerBlock("lavender_checker_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> LAVENDER_CHECKER_TILE_STAIRS = registerBlock("lavender_checker_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.LAVENDER_CHECKER_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_CHECKER_TILE_WALL = registerBlock("lavender_checker_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //LAVENDER STEP TILES
+    public static final RegistryObject<Block> LAVENDER_STEP_TILE = registerBlock("lavender_step_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_STEP_TILE_SLAB = registerBlock("lavender_step_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> LAVENDER_STEP_TILE_STAIRS = registerBlock("lavender_step_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.LAVENDER_STEP_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_STEP_TILE_WALL = registerBlock("lavender_step_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //LAVENDER CRISS TILES
+    public static final RegistryObject<Block> LAVENDER_CRISS_TILE = registerBlock("lavender_criss_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_CRISS_TILE_SLAB = registerBlock("lavender_criss_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> LAVENDER_CRISS_TILE_STAIRS = registerBlock("lavender_criss_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.LAVENDER_CRISS_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_CRISS_TILE_WALL = registerBlock("lavender_criss_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //LAVENDER FLAKE TILES
+    public static final RegistryObject<Block> LAVENDER_FLAKE_TILE = registerBlock("lavender_flake_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_FLAKE_TILE_SLAB = registerBlock("lavender_flake_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> LAVENDER_FLAKE_TILE_STAIRS = registerBlock("lavender_flake_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.LAVENDER_FLAKE_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_FLAKE_TILE_WALL = registerBlock("lavender_flake_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
+    //LAVENDER EDGE TILES
+    public static final RegistryObject<Block> LAVENDER_EDGE_TILE = registerBlock("lavender_edge_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_EDGE_TILE_SLAB = registerBlock("lavender_edge_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.DEEPSLATE_TILES)) {
+            });
+
+    public static final RegistryObject<Block> LAVENDER_EDGE_TILE_STAIRS = registerBlock("lavender_edge_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.LAVENDER_EDGE_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.DEEPSLATE_TILES)));
+
+    public static final RegistryObject<Block> LAVENDER_EDGE_TILE_WALL = registerBlock("lavender_edge_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
+
 
     //Functions for making this actually work
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T>block) {

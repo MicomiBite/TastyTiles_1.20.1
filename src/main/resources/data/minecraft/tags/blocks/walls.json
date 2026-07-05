@@ -125,6 +125,15 @@
     "tastytiles:warm_step_tile_wall",
     "tastytiles:warm_criss_tile_wall",
     "tastytiles:warm_flake_tile_wall",
-    "tastytiles:warm_edge_tile_wall"
+    "tastytiles:warm_edge_tile_wall",
+    "tastytiles:lavender_tile_wall",
+    "tastytiles:lavender_pattern_tile_wall",
+    "tastytiles:lavender_knit_tile_wall",
+    "tastytiles:lavender_cross_tile_wall",
+    "tastytiles:lavender_checker_tile_wall",
+    "tastytiles:lavender_step_tile_wall",
+    "tastytiles:lavender_criss_tile_wall",
+    "tastytiles:lavender_flake_tile_wall",
+    "tastytiles:lavender_edge_tile_wall"
   ]
 }

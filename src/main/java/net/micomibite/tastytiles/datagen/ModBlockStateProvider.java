@@ -561,6 +561,42 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.WARM_EDGE_TILE_STAIRS.get()), blockTexture(ModBlocks.WARM_EDGE_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.WARM_EDGE_TILE_WALL.get()), blockTexture(ModBlocks.WARM_EDGE_TILE.get()));
 
+        blockWithItem(ModBlocks.LAVENDER_TILE);
+        stairsBlock(((StairBlock) ModBlocks.LAVENDER_TILE_STAIRS.get()), blockTexture(ModBlocks.LAVENDER_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.LAVENDER_TILE_WALL.get()), blockTexture(ModBlocks.LAVENDER_TILE.get()));
+
+        blockWithItem(ModBlocks.LAVENDER_PATTERN_TILE);
+        stairsBlock(((StairBlock) ModBlocks.LAVENDER_PATTERN_TILE_STAIRS.get()), blockTexture(ModBlocks.LAVENDER_PATTERN_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.LAVENDER_PATTERN_TILE_WALL.get()), blockTexture(ModBlocks.LAVENDER_PATTERN_TILE.get()));
+
+        blockWithItem(ModBlocks.LAVENDER_KNIT_TILE);
+        stairsBlock(((StairBlock) ModBlocks.LAVENDER_KNIT_TILE_STAIRS.get()), blockTexture(ModBlocks.LAVENDER_KNIT_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.LAVENDER_KNIT_TILE_WALL.get()), blockTexture(ModBlocks.LAVENDER_KNIT_TILE.get()));
+
+        blockWithItem(ModBlocks.LAVENDER_CROSS_TILE);
+        stairsBlock(((StairBlock) ModBlocks.LAVENDER_CROSS_TILE_STAIRS.get()), blockTexture(ModBlocks.LAVENDER_CROSS_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.LAVENDER_CROSS_TILE_WALL.get()), blockTexture(ModBlocks.LAVENDER_CROSS_TILE.get()));
+
+        blockWithItem(ModBlocks.LAVENDER_CHECKER_TILE);
+        stairsBlock(((StairBlock) ModBlocks.LAVENDER_CHECKER_TILE_STAIRS.get()), blockTexture(ModBlocks.LAVENDER_CHECKER_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.LAVENDER_CHECKER_TILE_WALL.get()), blockTexture(ModBlocks.LAVENDER_CHECKER_TILE.get()));
+
+        blockWithItem(ModBlocks.LAVENDER_STEP_TILE);
+        stairsBlock(((StairBlock) ModBlocks.LAVENDER_STEP_TILE_STAIRS.get()), blockTexture(ModBlocks.LAVENDER_STEP_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.LAVENDER_STEP_TILE_WALL.get()), blockTexture(ModBlocks.LAVENDER_STEP_TILE.get()));
+
+        blockWithItem(ModBlocks.LAVENDER_CRISS_TILE);
+        stairsBlock(((StairBlock) ModBlocks.LAVENDER_CRISS_TILE_STAIRS.get()), blockTexture(ModBlocks.LAVENDER_CRISS_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.LAVENDER_CRISS_TILE_WALL.get()), blockTexture(ModBlocks.LAVENDER_CRISS_TILE.get()));
+
+        blockWithItem(ModBlocks.LAVENDER_FLAKE_TILE);
+        stairsBlock(((StairBlock) ModBlocks.LAVENDER_FLAKE_TILE_STAIRS.get()), blockTexture(ModBlocks.LAVENDER_FLAKE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.LAVENDER_FLAKE_TILE_WALL.get()), blockTexture(ModBlocks.LAVENDER_FLAKE_TILE.get()));
+
+        blockWithItem(ModBlocks.LAVENDER_EDGE_TILE);
+        stairsBlock(((StairBlock) ModBlocks.LAVENDER_EDGE_TILE_STAIRS.get()), blockTexture(ModBlocks.LAVENDER_EDGE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.LAVENDER_EDGE_TILE_WALL.get()), blockTexture(ModBlocks.LAVENDER_EDGE_TILE.get()));
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

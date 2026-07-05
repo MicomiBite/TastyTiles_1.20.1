@@ -525,6 +525,42 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.SANDY_SHELL_TILE_STAIRS.get()), blockTexture(ModBlocks.SANDY_SHELL_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.SANDY_SHELL_TILE_WALL.get()), blockTexture(ModBlocks.SANDY_SHELL_TILE.get()));
 
+        blockWithItem(ModBlocks.WARM_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WARM_TILE_STAIRS.get()), blockTexture(ModBlocks.WARM_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WARM_TILE_WALL.get()), blockTexture(ModBlocks.WARM_TILE.get()));
+
+        blockWithItem(ModBlocks.WARM_PATTERN_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WARM_PATTERN_TILE_STAIRS.get()), blockTexture(ModBlocks.WARM_PATTERN_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WARM_PATTERN_TILE_WALL.get()), blockTexture(ModBlocks.WARM_PATTERN_TILE.get()));
+
+        blockWithItem(ModBlocks.WARM_KNIT_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WARM_KNIT_TILE_STAIRS.get()), blockTexture(ModBlocks.WARM_KNIT_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WARM_KNIT_TILE_WALL.get()), blockTexture(ModBlocks.WARM_KNIT_TILE.get()));
+
+        blockWithItem(ModBlocks.WARM_CROSS_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WARM_CROSS_TILE_STAIRS.get()), blockTexture(ModBlocks.WARM_CROSS_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WARM_CROSS_TILE_WALL.get()), blockTexture(ModBlocks.WARM_CROSS_TILE.get()));
+
+        blockWithItem(ModBlocks.WARM_CHECKER_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WARM_CHECKER_TILE_STAIRS.get()), blockTexture(ModBlocks.WARM_CHECKER_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WARM_CHECKER_TILE_WALL.get()), blockTexture(ModBlocks.WARM_CHECKER_TILE.get()));
+
+        blockWithItem(ModBlocks.WARM_STEP_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WARM_STEP_TILE_STAIRS.get()), blockTexture(ModBlocks.WARM_STEP_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WARM_STEP_TILE_WALL.get()), blockTexture(ModBlocks.WARM_STEP_TILE.get()));
+
+        blockWithItem(ModBlocks.WARM_CRISS_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WARM_CRISS_TILE_STAIRS.get()), blockTexture(ModBlocks.WARM_CRISS_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WARM_CRISS_TILE_WALL.get()), blockTexture(ModBlocks.WARM_CRISS_TILE.get()));
+
+        blockWithItem(ModBlocks.WARM_FLAKE_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WARM_FLAKE_TILE_STAIRS.get()), blockTexture(ModBlocks.WARM_FLAKE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WARM_FLAKE_TILE_WALL.get()), blockTexture(ModBlocks.WARM_FLAKE_TILE.get()));
+
+        blockWithItem(ModBlocks.WARM_EDGE_TILE);
+        stairsBlock(((StairBlock) ModBlocks.WARM_EDGE_TILE_STAIRS.get()), blockTexture(ModBlocks.WARM_EDGE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.WARM_EDGE_TILE_WALL.get()), blockTexture(ModBlocks.WARM_EDGE_TILE.get()));
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

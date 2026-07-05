@@ -958,6 +958,78 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.SANDY_SHELL_TILE_WALL.get());
 
+            pOutput.accept(ModBlocks.WARM_TILE.get());
+
+            pOutput.accept(ModBlocks.WARM_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WARM_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WARM_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WARM_PATTERN_TILE.get());
+
+            pOutput.accept(ModBlocks.WARM_PATTERN_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WARM_PATTERN_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WARM_PATTERN_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WARM_KNIT_TILE.get());
+
+            pOutput.accept(ModBlocks.WARM_KNIT_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WARM_KNIT_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WARM_KNIT_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WARM_CROSS_TILE.get());
+
+            pOutput.accept(ModBlocks.WARM_CROSS_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WARM_CROSS_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WARM_CROSS_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WARM_CHECKER_TILE.get());
+
+            pOutput.accept(ModBlocks.WARM_CHECKER_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WARM_CHECKER_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WARM_CHECKER_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WARM_STEP_TILE.get());
+
+            pOutput.accept(ModBlocks.WARM_STEP_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WARM_STEP_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WARM_STEP_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WARM_CRISS_TILE.get());
+
+            pOutput.accept(ModBlocks.WARM_CRISS_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WARM_CRISS_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WARM_CRISS_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WARM_FLAKE_TILE.get());
+
+            pOutput.accept(ModBlocks.WARM_FLAKE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WARM_FLAKE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WARM_FLAKE_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.WARM_EDGE_TILE.get());
+
+            pOutput.accept(ModBlocks.WARM_EDGE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.WARM_EDGE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.WARM_EDGE_TILE_WALL.get());
+
         })
         .build());
 

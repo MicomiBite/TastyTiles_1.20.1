@@ -116,6 +116,15 @@
     "tastytiles:sandy_lined_tile_wall",
     "tastytiles:sandy_strike_tile_wall",
     "tastytiles:sandy_wave_tile_wall",
-    "tastytiles:sandy_shell_tile_wall"
+    "tastytiles:sandy_shell_tile_wall",
+    "tastytiles:warm_tile_wall",
+    "tastytiles:warm_pattern_tile_wall",
+    "tastytiles:warm_knit_tile_wall",
+    "tastytiles:warm_cross_tile_wall",
+    "tastytiles:warm_checker_tile_wall",
+    "tastytiles:warm_step_tile_wall",
+    "tastytiles:warm_criss_tile_wall",
+    "tastytiles:warm_flake_tile_wall",
+    "tastytiles:warm_edge_tile_wall"
   ]
 }

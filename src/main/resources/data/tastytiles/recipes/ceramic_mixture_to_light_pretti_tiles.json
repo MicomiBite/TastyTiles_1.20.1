@@ -4,16 +4,15 @@
 
   "key": {
     "A": {"item": "tastytiles:ceramic_mixture"},
-    "B": {"item": "minecraft:red_sand"},
-    "C": {"item": "minecraft:red_dye"}
+    "B": {"item": "minecraft:copper_ingot"}
   },
   "pattern": [
   "AAA",
-  "CBC",
+  "BBB",
   "AAA"
   ],
   "result": {
-    "item": "tastytiles:eve_summer_tile",
+    "item": "tastytiles:light_pretti_tile",
     "count": 8
   }
 }

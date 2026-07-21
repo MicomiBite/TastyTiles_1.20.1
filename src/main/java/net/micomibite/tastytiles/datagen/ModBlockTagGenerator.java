@@ -56,5 +56,21 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                         ModBlocks.PINK_PITTER_TILE_STAIRS.get(),
                         ModBlocks.PINK_PITTER_TILE_WALL.get());
 
-    }
+        this.tag(ModTags.Blocks.EVE_SUMMER_TILES)
+                .add(ModBlocks.EVE_SUMMER_TILE.get(),
+                        ModBlocks.EVE_SUMMER_TILE_SLAB.get(),
+                        ModBlocks.EVE_SUMMER_TILE_STAIRS.get(),
+                        ModBlocks.EVE_SUMMER_TILE_WALL.get(),
+                        ModBlocks.EVE_SPROUT_SUMMER_TILE.get(),
+                        ModBlocks.EVE_SPROUT_SUMMER_TILE_SLAB.get(),
+                        ModBlocks.EVE_SPROUT_SUMMER_TILE_STAIRS.get(),
+                        ModBlocks.EVE_SPROUT_SUMMER_TILE_WALL.get(),
+                        ModBlocks.EVE_BLOOM_SUMMER_TILE.get(),
+                        ModBlocks.EVE_BLOOM_SUMMER_TILE_SLAB.get(),
+                        ModBlocks.EVE_BLOOM_SUMMER_TILE_STAIRS.get(),
+                        ModBlocks.EVE_BLOOM_SUMMER_TILE_WALL.get(),
+                        ModBlocks.EVE_FLOWER_SUMMER_TILE.get(),
+                        ModBlocks.EVE_FLOWER_SUMMER_TILE_SLAB.get(),
+                        ModBlocks.EVE_FLOWER_SUMMER_TILE_STAIRS.get(),
+                        ModBlocks.EVE_FLOWER_SUMMER_TILE_WALL.get());    }
 }

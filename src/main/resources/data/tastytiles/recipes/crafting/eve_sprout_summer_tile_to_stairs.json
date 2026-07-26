@@ -3,7 +3,7 @@
   "category": "blocks",
 
   "key": {
-    "A": {"item": "tastytiles:eve_sprout_summer"}
+    "A": {"item": "tastytiles:eve_sprout_summer_tile"}
   },
   "pattern": [
     "A  ",
@@ -11,7 +11,7 @@
     "AAA"
   ],
   "result": {
-    "item": "tastytiles:eve_sprout_summer_stairs",
+    "item": "tastytiles:eve_sprout_summer_tile_stairs",
     "count": 4
   }
 }

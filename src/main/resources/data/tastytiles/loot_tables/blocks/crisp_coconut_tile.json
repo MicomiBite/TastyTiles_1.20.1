@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tastytiles:crisp_clear_tile_wall"
+          "name": "tastytiles:crisp_coconut_tile"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "tastytiles:blocks/crisp_clear_tile_wall"
+  "random_sequence": "tastytiles:blocks/crisp_coconut_tile"
 }

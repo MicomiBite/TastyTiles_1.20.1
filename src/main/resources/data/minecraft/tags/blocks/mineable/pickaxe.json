@@ -237,15 +237,15 @@
     "tastytiles:crisp_ripe_peach_tile_stairs",
     "tastytiles:crisp_ripe_peach_tile_wall",
 
-    "tastytiles:crisp_clear_tile",
-    "tastytiles:crisp_clear_tile_slab",
-    "tastytiles:crisp_clear_tile_stairs",
-    "tastytiles:crisp_clear_tile_wall",
+    "tastytiles:crisp_coconut_tile",
+    "tastytiles:crisp_coconut_tile_slab",
+    "tastytiles:crisp_coconut_tile_stairs",
+    "tastytiles:crisp_coconut_tile_wall",
 
-    "tastytiles:crisp_ripe_clear_tile",
-    "tastytiles:crisp_ripe_clear_tile_slab",
-    "tastytiles:crisp_ripe_clear_tile_stairs",
-    "tastytiles:crisp_ripe_clear_tile_wall",
+    "tastytiles:crisp_ripe_coconut_tile",
+    "tastytiles:crisp_ripe_coconut_tile_slab",
+    "tastytiles:crisp_ripe_coconut_tile_stairs",
+    "tastytiles:crisp_ripe_coconut_tile_wall",
 
     "tastytiles:grid_red_tile",
     "tastytiles:grid_red_tile_slab",

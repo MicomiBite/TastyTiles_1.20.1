@@ -414,21 +414,21 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.CRISP_RIPE_PEACH_TILE_WALL.get());
 
-            pOutput.accept(ModBlocks.CRISP_CLEAR_TILE.get());
+            pOutput.accept(ModBlocks.CRISP_COCONUT_TILE.get());
 
-            pOutput.accept(ModBlocks.CRISP_CLEAR_TILE_SLAB.get());
+            pOutput.accept(ModBlocks.CRISP_COCONUT_TILE_SLAB.get());
 
-            pOutput.accept(ModBlocks.CRISP_CLEAR_TILE_STAIRS.get());
+            pOutput.accept(ModBlocks.CRISP_COCONUT_TILE_STAIRS.get());
 
-            pOutput.accept(ModBlocks.CRISP_CLEAR_TILE_WALL.get());
+            pOutput.accept(ModBlocks.CRISP_COCONUT_TILE_WALL.get());
 
-            pOutput.accept(ModBlocks.CRISP_RIPE_CLEAR_TILE.get());
+            pOutput.accept(ModBlocks.CRISP_RIPE_COCONUT_TILE.get());
 
-            pOutput.accept(ModBlocks.CRISP_RIPE_CLEAR_TILE_SLAB.get());
+            pOutput.accept(ModBlocks.CRISP_RIPE_COCONUT_TILE_SLAB.get());
 
-            pOutput.accept(ModBlocks.CRISP_RIPE_CLEAR_TILE_STAIRS.get());
+            pOutput.accept(ModBlocks.CRISP_RIPE_COCONUT_TILE_STAIRS.get());
 
-            pOutput.accept(ModBlocks.CRISP_RIPE_CLEAR_TILE_WALL.get());
+            pOutput.accept(ModBlocks.CRISP_RIPE_COCONUT_TILE_WALL.get());
 
             pOutput.accept(ModBlocks.GRID_RED_TILE.get());
 

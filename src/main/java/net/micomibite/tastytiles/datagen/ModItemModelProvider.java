@@ -121,10 +121,10 @@ public class ModItemModelProvider extends ItemModelProvider {
         wallItem(ModBlocks.CRISP_PEACH_TILE_WALL, ModBlocks.CRISP_PEACH_TILE);
         evenSimplerBlockItem(ModBlocks.CRISP_RIPE_PEACH_TILE_STAIRS);
         wallItem(ModBlocks.CRISP_RIPE_PEACH_TILE_WALL, ModBlocks.CRISP_RIPE_PEACH_TILE);
-        evenSimplerBlockItem(ModBlocks.CRISP_CLEAR_TILE_STAIRS);
-        wallItem(ModBlocks.CRISP_CLEAR_TILE_WALL, ModBlocks.CRISP_CLEAR_TILE);
-        evenSimplerBlockItem(ModBlocks.CRISP_RIPE_CLEAR_TILE_STAIRS);
-        wallItem(ModBlocks.CRISP_RIPE_CLEAR_TILE_WALL, ModBlocks.CRISP_RIPE_CLEAR_TILE);
+        evenSimplerBlockItem(ModBlocks.CRISP_COCONUT_TILE_STAIRS);
+        wallItem(ModBlocks.CRISP_COCONUT_TILE_WALL, ModBlocks.CRISP_COCONUT_TILE);
+        evenSimplerBlockItem(ModBlocks.CRISP_RIPE_COCONUT_TILE_STAIRS);
+        wallItem(ModBlocks.CRISP_RIPE_COCONUT_TILE_WALL, ModBlocks.CRISP_RIPE_COCONUT_TILE);
         evenSimplerBlockItem(ModBlocks.GRID_RED_TILE_STAIRS);
         wallItem(ModBlocks.GRID_RED_TILE_WALL, ModBlocks.GRID_RED_TILE);
         evenSimplerBlockItem(ModBlocks.GRID_PURPLE_TILE_STAIRS);

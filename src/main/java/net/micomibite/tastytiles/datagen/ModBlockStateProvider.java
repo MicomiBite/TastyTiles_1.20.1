@@ -244,15 +244,15 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.CRISP_RIPE_PEACH_TILE_STAIRS.get()), blockTexture(ModBlocks.CRISP_RIPE_PEACH_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.CRISP_RIPE_PEACH_TILE_WALL.get()), blockTexture(ModBlocks.CRISP_RIPE_PEACH_TILE.get()));
 
-        blockWithItem(ModBlocks.CRISP_CLEAR_TILE);
-        genSimpleSlabsSBI(ModBlocks.CRISP_CLEAR_TILE_SLAB.get(), ModBlocks.CRISP_CLEAR_TILE.get());
-        stairsBlock(((StairBlock) ModBlocks.CRISP_CLEAR_TILE_STAIRS.get()), blockTexture(ModBlocks.CRISP_CLEAR_TILE.get()));
-        wallBlock(((WallBlock) ModBlocks.CRISP_CLEAR_TILE_WALL.get()), blockTexture(ModBlocks.CRISP_CLEAR_TILE.get()));
+        blockWithItem(ModBlocks.CRISP_COCONUT_TILE);
+        genSimpleSlabsSBI(ModBlocks.CRISP_COCONUT_TILE_SLAB.get(), ModBlocks.CRISP_COCONUT_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.CRISP_COCONUT_TILE_STAIRS.get()), blockTexture(ModBlocks.CRISP_COCONUT_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.CRISP_COCONUT_TILE_WALL.get()), blockTexture(ModBlocks.CRISP_COCONUT_TILE.get()));
 
-        blockWithItem(ModBlocks.CRISP_RIPE_CLEAR_TILE);
-        genSimpleSlabsSBI(ModBlocks.CRISP_RIPE_CLEAR_TILE_SLAB.get(), ModBlocks.CRISP_RIPE_CLEAR_TILE.get());
-        stairsBlock(((StairBlock) ModBlocks.CRISP_RIPE_CLEAR_TILE_STAIRS.get()), blockTexture(ModBlocks.CRISP_RIPE_CLEAR_TILE.get()));
-        wallBlock(((WallBlock) ModBlocks.CRISP_RIPE_CLEAR_TILE_WALL.get()), blockTexture(ModBlocks.CRISP_RIPE_CLEAR_TILE.get()));
+        blockWithItem(ModBlocks.CRISP_RIPE_COCONUT_TILE);
+        genSimpleSlabsSBI(ModBlocks.CRISP_RIPE_COCONUT_TILE_SLAB.get(), ModBlocks.CRISP_RIPE_COCONUT_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.CRISP_RIPE_COCONUT_TILE_STAIRS.get()), blockTexture(ModBlocks.CRISP_RIPE_COCONUT_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.CRISP_RIPE_COCONUT_TILE_WALL.get()), blockTexture(ModBlocks.CRISP_RIPE_COCONUT_TILE.get()));
 
         blockWithItem(ModBlocks.GRID_RED_TILE);
         genSimpleSlabsSBI(ModBlocks.GRID_RED_TILE_SLAB.get(), ModBlocks.GRID_RED_TILE.get());

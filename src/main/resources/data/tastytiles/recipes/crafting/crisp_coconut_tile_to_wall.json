@@ -3,14 +3,14 @@
   "category": "blocks",
 
   "key": {
-    "A": {"item": "tastytiles:crisp_ripe_clear_tile"}
+    "A": {"item": "tastytiles:crisp_coconut_tile"}
   },
   "pattern": [
     "AAA",
     "AAA"
   ],
   "result": {
-    "item": "tastytiles:crisp_ripe_clear_tile_wall",
+    "item": "tastytiles:crisp_coconut_tile_wall",
     "count": 6
   }
 }

@@ -776,34 +776,34 @@ public class ModBlocks {
     public static final RegistryObject<Block> CRISP_RIPE_PEACH_TILE_WALL = registerBlock("crisp_ripe_peach_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.METAL)));
 
-    //CRISP CLEAR TILES
-    public static final RegistryObject<Block> CRISP_CLEAR_TILE = registerBlock("crisp_clear_tile",
+    //CRISP COCONUT TILES
+    public static final RegistryObject<Block> CRISP_COCONUT_TILE = registerBlock("crisp_coconut_tile",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.METAL)));
 
-    public static final RegistryObject<Block> CRISP_CLEAR_TILE_SLAB = registerBlock("crisp_clear_tile_slab",
+    public static final RegistryObject<Block> CRISP_COCONUT_TILE_SLAB = registerBlock("crisp_coconut_tile_slab",
             () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.METAL)) {
             });
 
-    public static final RegistryObject<Block> CRISP_CLEAR_TILE_STAIRS = registerBlock("crisp_clear_tile_stairs",
-            () -> new StairBlock(() -> ModBlocks.CRISP_CLEAR_TILE.get().defaultBlockState(),
+    public static final RegistryObject<Block> CRISP_COCONUT_TILE_STAIRS = registerBlock("crisp_coconut_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.CRISP_COCONUT_TILE.get().defaultBlockState(),
                     BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.METAL)));
 
-    public static final RegistryObject<Block> CRISP_CLEAR_TILE_WALL = registerBlock("crisp_clear_tile_wall",
+    public static final RegistryObject<Block> CRISP_COCONUT_TILE_WALL = registerBlock("crisp_coconut_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.METAL)));
 
-    //CRISP RIPE CLEAR TILES
-    public static final RegistryObject<Block> CRISP_RIPE_CLEAR_TILE = registerBlock("crisp_ripe_clear_tile",
+    //CRISP RIPE COCONUT TILES
+    public static final RegistryObject<Block> CRISP_RIPE_COCONUT_TILE = registerBlock("crisp_ripe_coconut_tile",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.BRICKS).sound(SoundType.METAL)));
 
-    public static final RegistryObject<Block> CRISP_RIPE_CLEAR_TILE_SLAB = registerBlock("crisp_ripe_clear_tile_slab",
+    public static final RegistryObject<Block> CRISP_RIPE_COCONUT_TILE_SLAB = registerBlock("crisp_ripe_coconut_tile_slab",
             () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.SMOOTH_STONE_SLAB).sound(SoundType.METAL)) {
             });
 
-    public static final RegistryObject<Block> CRISP_RIPE_CLEAR_TILE_STAIRS = registerBlock("crisp_ripe_clear_tile_stairs",
-            () -> new StairBlock(() -> ModBlocks.CRISP_RIPE_CLEAR_TILE.get().defaultBlockState(),
+    public static final RegistryObject<Block> CRISP_RIPE_COCONUT_TILE_STAIRS = registerBlock("crisp_ripe_coconut_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.CRISP_RIPE_COCONUT_TILE.get().defaultBlockState(),
                     BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.METAL)));
 
-    public static final RegistryObject<Block> CRISP_RIPE_CLEAR_TILE_WALL = registerBlock("crisp_ripe_clear_tile_wall",
+    public static final RegistryObject<Block> CRISP_RIPE_COCONUT_TILE_WALL = registerBlock("crisp_ripe_coconut_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.METAL)));
 
     //GRID RED TILES

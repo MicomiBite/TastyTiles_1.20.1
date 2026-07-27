@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 2,
   "ingredient": {
-    "tag": "tastytiles:grid_tiles"
+    "tag": "tastytiles:grid_red_tiles"
   },
   "result": "tastytiles:grid_red_tile_slab"
 }

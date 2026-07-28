@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+
+  "key": {
+    "A": {"item": "tastytiles:white_azulejo_shell_tile_slab"}
+  },
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "result": {
+    "item": "tastytiles:white_azulejo_shell_tile",
+    "count": 1
+  }
+}

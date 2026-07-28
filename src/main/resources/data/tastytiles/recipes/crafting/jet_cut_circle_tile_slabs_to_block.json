@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+
+  "key": {
+    "A": {"item": "tastytiles:jet_cut_circle_tile_slab"}
+  },
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "result": {
+    "item": "tastytiles:jet_cut_circle_tile",
+    "count": 1
+  }
+}

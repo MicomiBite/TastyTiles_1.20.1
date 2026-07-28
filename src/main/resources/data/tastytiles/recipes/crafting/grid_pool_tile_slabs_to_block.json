@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+
+  "key": {
+    "A": {"item": "tastytiles:grid_pool_tile_slab"}
+  },
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "result": {
+    "item": "tastytiles:grid_pool_tile",
+    "count": 1
+  }
+}

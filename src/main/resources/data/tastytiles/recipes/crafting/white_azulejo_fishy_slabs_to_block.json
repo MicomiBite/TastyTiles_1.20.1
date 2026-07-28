@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:craftosy_shaped",
+  "category": "blocks",
+
+  "key": {
+    "A": {"item": "tastytiles:white_azulejo_fishy_tile_slab"}
+  },
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "result": {
+    "item": "tastytiles:white_azulejo_fishy_tile",
+    "count": 1
+  }
+}

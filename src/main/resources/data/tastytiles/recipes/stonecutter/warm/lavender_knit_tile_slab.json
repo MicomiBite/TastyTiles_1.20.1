@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 2,
   "ingredient": {
-    "tag": "tastytiles:lavender_knit_tiles"
+    "tag": "tastytiles:lavender_tiles"
   },
   "result": "tastytiles:lavender_knit_tile_slab"
 }

@@ -297,6 +297,32 @@ public class ModItemModelProvider extends ItemModelProvider {
         wallItem(ModBlocks.LAVENDER_FLAKE_TILE_WALL, ModBlocks.LAVENDER_FLAKE_TILE);
         evenSimplerBlockItem(ModBlocks.LAVENDER_EDGE_TILE_STAIRS);
         wallItem(ModBlocks.LAVENDER_EDGE_TILE_WALL, ModBlocks.LAVENDER_EDGE_TILE);
+        //END THEMED TILES
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_TILE_WALL, ModBlocks.ENDLELINE_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_CENTRA_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_CENTRA_TILE_WALL, ModBlocks.ENDLELINE_CENTRA_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_FIGURE_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_FIGURE_TILE_WALL, ModBlocks.ENDLELINE_FIGURE_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_FLOWARD_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_FLOWARD_TILE_WALL, ModBlocks.ENDLELINE_FLOWARD_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_INWARD_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_INWARD_TILE_WALL, ModBlocks.ENDLELINE_INWARD_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_RECT_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_RECT_TILE_WALL, ModBlocks.ENDLELINE_RECT_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_SEEPING_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_SEEPING_TILE_WALL, ModBlocks.ENDLELINE_SEEPING_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_SWIRL_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_SWIRL_TILE_WALL, ModBlocks.ENDLELINE_SWIRL_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_TOWER_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_TOWER_TILE_WALL, ModBlocks.ENDLELINE_TOWER_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_TURN_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_TURN_TILE_WALL, ModBlocks.ENDLELINE_TURN_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_ZING_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_ZING_TILE_WALL, ModBlocks.ENDLELINE_ZING_TILE);
+        evenSimplerBlockItem(ModBlocks.ENDLELINE_ZUNE_TILE_STAIRS);
+        wallSixItem(ModBlocks.ENDLELINE_ZUNE_TILE_WALL, ModBlocks.ENDLELINE_ZUNE_TILE);
+
 
     }
 

@@ -2137,6 +2137,199 @@ public class ModBlocks {
     public static final RegistryObject<Block> LAVENDER_EDGE_TILE_WALL = registerBlock("lavender_edge_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.DEEPSLATE_TILES)));
 
+    //END THEMED BLOCKS
+    //ENDLELINE TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_TILE = registerBlock("endleline_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_TILE_SLAB = registerBlock("endleline_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_TILE_STAIRS = registerBlock("endleline_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_TILE_WALL = registerBlock("endleline_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE CENTRA TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_CENTRA_TILE = registerBlock("endleline_centra_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_CENTRA_TILE_SLAB = registerBlock("endleline_centra_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_CENTRA_TILE_STAIRS = registerBlock("endleline_centra_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_CENTRA_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_CENTRA_TILE_WALL = registerBlock("endleline_centra_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE FIGURE TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_FIGURE_TILE = registerBlock("endleline_figure_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_FIGURE_TILE_SLAB = registerBlock("endleline_figure_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_FIGURE_TILE_STAIRS = registerBlock("endleline_figure_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_FIGURE_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_FIGURE_TILE_WALL = registerBlock("endleline_figure_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE FLOWARD TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_FLOWARD_TILE = registerBlock("endleline_floward_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_FLOWARD_TILE_SLAB = registerBlock("endleline_floward_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_FLOWARD_TILE_STAIRS = registerBlock("endleline_floward_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_FLOWARD_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_FLOWARD_TILE_WALL = registerBlock("endleline_floward_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE INWARD TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_INWARD_TILE = registerBlock("endleline_inward_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_INWARD_TILE_SLAB = registerBlock("endleline_inward_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_INWARD_TILE_STAIRS = registerBlock("endleline_inward_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_INWARD_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_INWARD_TILE_WALL = registerBlock("endleline_inward_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE RECT TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_RECT_TILE = registerBlock("endleline_rect_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_RECT_TILE_SLAB = registerBlock("endleline_rect_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_RECT_TILE_STAIRS = registerBlock("endleline_rect_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_RECT_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_RECT_TILE_WALL = registerBlock("endleline_rect_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE SEEPING TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_SEEPING_TILE = registerBlock("endleline_seeping_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_SEEPING_TILE_SLAB = registerBlock("endleline_seeping_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_SEEPING_TILE_STAIRS = registerBlock("endleline_seeping_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_SEEPING_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_SEEPING_TILE_WALL = registerBlock("endleline_seeping_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE SWIRL TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_SWIRL_TILE = registerBlock("endleline_swirl_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_SWIRL_TILE_SLAB = registerBlock("endleline_swirl_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_SWIRL_TILE_STAIRS = registerBlock("endleline_swirl_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_SWIRL_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_SWIRL_TILE_WALL = registerBlock("endleline_swirl_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE TOWER TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_TOWER_TILE = registerBlock("endleline_tower_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_TOWER_TILE_SLAB = registerBlock("endleline_tower_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_TOWER_TILE_STAIRS = registerBlock("endleline_tower_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_TOWER_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_TOWER_TILE_WALL = registerBlock("endleline_tower_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE TURN TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_TURN_TILE = registerBlock("endleline_turn_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_TURN_TILE_SLAB = registerBlock("endleline_turn_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_TURN_TILE_STAIRS = registerBlock("endleline_turn_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_TURN_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_TURN_TILE_WALL = registerBlock("endleline_turn_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE ZING TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_ZING_TILE = registerBlock("endleline_zing_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_ZING_TILE_SLAB = registerBlock("endleline_zing_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_ZING_TILE_STAIRS = registerBlock("endleline_zing_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_ZING_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_ZING_TILE_WALL = registerBlock("endleline_zing_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
+    //ENDLELINE ZUNE TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> ENDLELINE_ZUNE_TILE = registerBlock("endleline_zune_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.PINK_GLAZED_TERRACOTTA).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_ZUNE_TILE_SLAB = registerBlock("endleline_zune_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_SLAB).sound(SoundType.BONE_BLOCK)) {
+            });
+
+    public static final RegistryObject<Block> ENDLELINE_ZUNE_TILE_STAIRS = registerBlock("endleline_zune_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.ENDLELINE_ZUNE_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.BRICK_STAIRS).sound(SoundType.BONE_BLOCK)));
+
+    public static final RegistryObject<Block> ENDLELINE_ZUNE_TILE_WALL = registerBlock("endleline_zune_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.BRICK_WALL).sound(SoundType.BONE_BLOCK)));
+
 
     //Functions for making this actually work
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T>block) {

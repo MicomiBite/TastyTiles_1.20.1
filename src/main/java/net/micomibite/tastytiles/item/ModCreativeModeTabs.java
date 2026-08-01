@@ -1118,6 +1118,102 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.LAVENDER_EDGE_TILE_WALL.get());
 
+            pOutput.accept(ModBlocks.ENDLELINE_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_CENTRA_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_CENTRA_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_CENTRA_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_CENTRA_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_FIGURE_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_FIGURE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_FIGURE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_FIGURE_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_FLOWARD_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_FLOWARD_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_FLOWARD_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_FLOWARD_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_INWARD_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_INWARD_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_INWARD_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_INWARD_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_RECT_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_RECT_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_RECT_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_RECT_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_SEEPING_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_SEEPING_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_SEEPING_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_SEEPING_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_SWIRL_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_SWIRL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_SWIRL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_SWIRL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TOWER_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TOWER_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TOWER_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TOWER_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TURN_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TURN_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TURN_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_TURN_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_ZING_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_ZING_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_ZING_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_ZING_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_ZUNE_TILE.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_ZUNE_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_ZUNE_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.ENDLELINE_ZUNE_TILE_WALL.get());
+
         })
         .build());
 

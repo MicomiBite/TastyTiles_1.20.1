@@ -607,6 +607,54 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock(((StairBlock) ModBlocks.LAVENDER_EDGE_TILE_STAIRS.get()), blockTexture(ModBlocks.LAVENDER_EDGE_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.LAVENDER_EDGE_TILE_WALL.get()), blockTexture(ModBlocks.LAVENDER_EDGE_TILE.get()));
 
+        genSixSBI(ModBlocks.ENDLELINE_TILE.get(), buildSimpleBlockWithRenderType("endleline_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_CENTRA_TILE.get(), buildSimpleBlockWithRenderType("endleline_centra_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_CENTRA_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_CENTRA_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_CENTRA_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_CENTRA_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_FIGURE_TILE.get(), buildSimpleBlockWithRenderType("endleline_figure_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_FIGURE_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_FIGURE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_FIGURE_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_FIGURE_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_FLOWARD_TILE.get(), buildSimpleBlockWithRenderType("endleline_floward_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_FLOWARD_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_FLOWARD_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_FLOWARD_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_FLOWARD_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_INWARD_TILE.get(), buildSimpleBlockWithRenderType("endleline_inward_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_INWARD_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_INWARD_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_INWARD_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_INWARD_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_RECT_TILE.get(), buildSimpleBlockWithRenderType("endleline_rect_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_RECT_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_RECT_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_RECT_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_RECT_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_SEEPING_TILE.get(), buildSimpleBlockWithRenderType("endleline_seeping_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_SEEPING_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_SEEPING_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_SEEPING_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_SEEPING_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_SWIRL_TILE.get(), buildSimpleBlockWithRenderType("endleline_swirl_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_SWIRL_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_SWIRL_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_SWIRL_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_SWIRL_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_TOWER_TILE.get(), buildSimpleBlockWithRenderType("endleline_tower_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_TOWER_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_TOWER_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_TOWER_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_TOWER_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_TURN_TILE.get(), buildSimpleBlockWithRenderType("endleline_turn_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_TURN_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_TURN_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_TURN_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_TURN_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_ZING_TILE.get(), buildSimpleBlockWithRenderType("endleline_zing_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_ZING_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_ZING_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_ZING_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_ZING_TILE.get()));
+
+        genSixSBI(ModBlocks.ENDLELINE_ZUNE_TILE.get(), buildSimpleBlockWithRenderType("endleline_zune_tile", "solid") );
+        stairsBlock(((StairBlock) ModBlocks.ENDLELINE_ZUNE_TILE_STAIRS.get()), blockTexture(ModBlocks.ENDLELINE_ZUNE_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.ENDLELINE_ZUNE_TILE_WALL.get()), blockTexture(ModBlocks.ENDLELINE_ZUNE_TILE.get()));
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

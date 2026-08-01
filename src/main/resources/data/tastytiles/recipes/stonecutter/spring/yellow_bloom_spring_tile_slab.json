@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 2,
   "ingredient": {
-    "tag": "tastytiles:yellow_bloom_spring_tiles"
+    "tag": "tastytiles:yellow_spring_tiles"
   },
   "result": "tastytiles:yellow_bloom_spring_tile_slab"
 }

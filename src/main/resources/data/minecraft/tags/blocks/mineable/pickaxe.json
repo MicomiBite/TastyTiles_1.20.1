@@ -675,6 +675,50 @@
     "tastytiles:lavender_edge_tile",
     "tastytiles:lavender_edge_tile_slab",
     "tastytiles:lavender_edge_tile_stairs",
-    "tastytiles:lavender_edge_tile_wall"
+    "tastytiles:lavender_edge_tile_wall",
+
+    "tastytiles:endleline_tile",
+    "tastytiles:endleline_tile_stairs",
+    "tastytiles:endleline_tile_wall",
+
+    "tastytiles:endleline_centra_tile",
+    "tastytiles:endleline_centra_tile_stairs",
+    "tastytiles:endleline_centra_tile_wall",
+
+    "tastytiles:endleline_figure_tile",
+    "tastytiles:endleline_figure_tile_stairs",
+    "tastytiles:endleline_figure_tile_wall",
+
+    "tastytiles:endleline_floward_tile",
+    "tastytiles:endleline_floward_tile_stairs",
+    "tastytiles:endleline_floward_tile_wall",
+
+    "tastytiles:endleline_inward_tile",
+    "tastytiles:endleline_inward_stairs",
+    "tastytiles:endleline_inward_wall",
+
+    "tastytiles:endleline_rect_tile",
+    "tastytiles:endleline_rect_tile_stairs",
+    "tastytiles:endleline_rect_tile_wall",
+
+    "tastytiles:endleline_seeping_tile",
+    "tastytiles:endleline_seeping_tile_stairs",
+    "tastytiles:endleline_seeping_tile_wall",
+
+    "tastytiles:endleline_swirl_tile",
+    "tastytiles:endleline_swirl_tile_stairs",
+    "tastytiles:endleline_swirl_tile_wall",
+
+    "tastytiles:endleline_turn_tile",
+    "tastytiles:endleline_turn_tile_stairs",
+    "tastytiles:endleline_turn_tile_wall",
+
+    "tastytiles:endleline_zing_tile",
+    "tastytiles:endleline_zing_tile_stairs",
+    "tastytiles:endleline_zing_tile_wall",
+
+    "tastytiles:endleline_zune_tile",
+    "tastytiles:endleline_zune_tile_stairs",
+    "tastytiles:endleline_zune_tile_wall"
   ]
 }

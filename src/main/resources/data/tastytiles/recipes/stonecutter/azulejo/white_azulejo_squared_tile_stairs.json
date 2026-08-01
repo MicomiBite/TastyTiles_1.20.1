@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 1,
   "ingredient": {
-    "tag": "tastytiles:white_azulejo_squared_tiles"
+    "tag": "tastytiles:white_azulejo_tiles"
   },
   "result": "tastytiles:white_azulejo_squared_tile_stairs"
 }

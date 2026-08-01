@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 2,
   "ingredient": {
-    "tag": "tastytiles:sandy_strike_tiles"
+    "tag": "tastytiles:sandy_tiles"
   },
   "result": "tastytiles:sandy_strike_tile_slab"
 }

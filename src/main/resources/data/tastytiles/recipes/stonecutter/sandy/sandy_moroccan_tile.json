@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 1,
   "ingredient": {
-    "tag": "tastytiles:sandy_moroccan_tiles"
+    "tag": "tastytiles:sandy_tiles"
   },
   "result": "tastytiles:sandy_moroccan_tile"
 }

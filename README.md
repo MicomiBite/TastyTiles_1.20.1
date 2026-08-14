@@ -99,4 +99,45 @@ Crisp tiles use nether quartz and different dye colors.
 Every crisp tile can be crafted using the stonecutter into more vibrant ripe variants, as shown below.
 
 <img width="614" height="204" alt="image" src="https://github.com/user-attachments/assets/b57ab9cb-396d-4cae-b5a8-d83e04bd074e" />
+<br>
+<br>
 
+# --- GRID TILES --- <br>
+
+Grid red tiles use red stained glass.
+
+<img width="509" height="257" alt="image" src="https://github.com/user-attachments/assets/a6478036-e16f-4196-93bb-b25f33b8f68d" />
+
+Grid purple tiles use purple stained glass.
+
+<img width="511" height="255" alt="image" src="https://github.com/user-attachments/assets/6eb408be-a69a-44fc-9184-418d8900b98f" />
+
+Grid teal tiles use cyan stained glass.
+
+<img width="509" height="261" alt="image" src="https://github.com/user-attachments/assets/cefd0e73-ebb8-4d0a-813a-17c4ff380bca" />
+
+Grid pool tiles use light blue stained glass.
+
+<img width="509" height="257" alt="image" src="https://github.com/user-attachments/assets/103c4a12-a7cd-4094-836f-116a7e0eff7d" />
+
+Grid sage tiles use glass.
+
+<img width="512" height="257" alt="image" src="https://github.com/user-attachments/assets/11e79f58-1412-4e32-8367-113b952b3770" />
+
+Grid mixed tiles use prismarine crystals.
+
+<img width="509" height="258" alt="image" src="https://github.com/user-attachments/assets/2782efdb-9eea-4c6e-a391-fded2c6f127a" />
+
+Grid white tiles use white stained glass.
+
+<img width="511" height="258" alt="image" src="https://github.com/user-attachments/assets/9e763b50-3004-4b9e-ab92-8d805d8b5eea" />
+
+Grid black tiles use black stained glass.
+
+<img width="510" height="257" alt="image" src="https://github.com/user-attachments/assets/19a1709e-0250-4b89-97d8-a13a3425bf27" />
+
+Grid sewer tiles use brown stained glass.
+
+<img width="510" height="262" alt="image" src="https://github.com/user-attachments/assets/124117c3-34d1-400f-aa21-cc405177f384" />
+<br>
+<br>

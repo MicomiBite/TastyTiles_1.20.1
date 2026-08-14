@@ -58,5 +58,22 @@ All shown vairants are crafted through the stonecutter!
 <img width="616" height="351" alt="image" src="https://github.com/user-attachments/assets/445cbacc-016f-49c2-ab4f-30864901f7ea" />
 
 <img width="616" height="356" alt="image" src="https://github.com/user-attachments/assets/2dcafe7d-f993-4830-973e-a45e2f3eabed" />
+<br>
+<br>
 
+# --- PRETTI TILES --- <br>
+Light pretti tiles use copper ingots.
 
+<img width="515" height="259" alt="image" src="https://github.com/user-attachments/assets/be5e57dd-5c42-48e9-8a16-75b11ca5ce75" />
+
+Dark pretti tiles use red nether bricks.
+
+<img width="515" height="259" alt="image" src="https://github.com/user-attachments/assets/805f7c1f-7b76-4196-b00d-bb57b4dfc5ca" />
+
+All shown vairants are crafted through the stonecutter!
+
+<img width="615" height="354" alt="image" src="https://github.com/user-attachments/assets/d0bcaba2-c770-43b2-a053-c0c505febe66" />
+
+<img width="618" height="353" alt="image" src="https://github.com/user-attachments/assets/c2133b6c-80b2-4c9a-8ed9-a3ddb7822773" />
+<br>
+<br>

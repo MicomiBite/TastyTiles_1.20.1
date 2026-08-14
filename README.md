@@ -77,3 +77,26 @@ All shown vairants are crafted through the stonecutter!
 <img width="618" height="353" alt="image" src="https://github.com/user-attachments/assets/c2133b6c-80b2-4c9a-8ed9-a3ddb7822773" />
 <br>
 <br>
+
+
+# --- CRISP TILES --- <br>
+Crisp tiles use nether quartz and different dye colors.
+
+<img width="509" height="256" alt="image" src="https://github.com/user-attachments/assets/639dda9f-e694-4866-b8f8-879bb93a432d" />
+
+<img width="511" height="258" alt="image" src="https://github.com/user-attachments/assets/7d7c038d-5933-4e00-9919-f69bb2dd68af" />
+
+<img width="512" height="257" alt="image" src="https://github.com/user-attachments/assets/75f406af-fd0d-426f-b622-83d7dbd1efea" />
+
+<img width="513" height="256" alt="image" src="https://github.com/user-attachments/assets/ff6c2ec3-4d9b-4ac7-bfc9-5449a6b58a35" />
+
+<img width="513" height="258" alt="image" src="https://github.com/user-attachments/assets/203417b8-bf29-47a1-aa57-9f6a41c846dc" />
+
+<img width="513" height="256" alt="image" src="https://github.com/user-attachments/assets/9be4dcfc-728c-46b3-aab0-c7d4293545ed" />
+
+<img width="514" height="253" alt="image" src="https://github.com/user-attachments/assets/f3957a5e-ae4f-42ff-9b8d-24ac1aa78fbe" />
+
+Every crisp tile can be crafted using the stonecutter into more vibrant ripe variants, as shown below.
+
+<img width="614" height="204" alt="image" src="https://github.com/user-attachments/assets/b57ab9cb-396d-4cae-b5a8-d83e04bd074e" />
+

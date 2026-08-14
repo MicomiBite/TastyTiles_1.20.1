@@ -5,6 +5,8 @@ The full list of recipes will be added below (WIP) ~ all blocks have slab, stair
 Used in all base recipes for the tiles! Uses sand, mud, and clay.
 
 <img width="508" height="250" alt="Image" src="https://github.com/user-attachments/assets/58dc39a5-ffcb-46c3-9e7f-90b1e4893e6d" />
+<br>
+<br>
 
 # --- PITTER TILES --- <br>
 Brick pitter tiles use bricks.
@@ -38,3 +40,23 @@ Pitch pitter tiles use deepslate tiles.
 Pink pitter tiles use cherry leaves.
 
 <img width="509" height="254" alt="image" src="https://github.com/user-attachments/assets/85baed3e-97e3-4087-b5b5-8ff49fb03e7d" />
+<br>
+<br>
+
+# --- SUMMER TILES --- <br>
+Eve summer tiles use red sand and red dye.
+
+<img width="507" height="250" alt="image" src="https://github.com/user-attachments/assets/044c249b-fff5-4e64-94c9-4aaa3d041611" />
+
+Day summer tiles use sand and yellow dye.
+
+<img width="512" height="255" alt="image" src="https://github.com/user-attachments/assets/180f1aa3-ac07-47d3-a6e2-a244a6ac12ad" />
+
+
+All shown vairants are crafted through the stonecutter!
+
+<img width="616" height="351" alt="image" src="https://github.com/user-attachments/assets/445cbacc-016f-49c2-ab4f-30864901f7ea" />
+
+<img width="616" height="356" alt="image" src="https://github.com/user-attachments/assets/2dcafe7d-f993-4830-973e-a45e2f3eabed" />
+
+

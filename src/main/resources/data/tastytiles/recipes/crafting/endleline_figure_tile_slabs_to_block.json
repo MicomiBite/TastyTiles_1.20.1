@@ -3,14 +3,14 @@
   "category": "blocks",
 
   "key": {
-    "A": {"item": "tastytiles:white_azulejo_fishy_tile_slab"}
+    "A": {"item": "tastytiles:endleline_figure_tile_slab"}
   },
   "pattern": [
     "A",
     "A"
   ],
   "result": {
-    "item": "tastytiles:white_azulejo_fishy_tile",
+    "item": "tastytiles:endleline_figure_tile",
     "count": 1
   }
 }

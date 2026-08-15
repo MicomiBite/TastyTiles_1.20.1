@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 2,
   "ingredient": {
-    "tag": "tastytiles:jet_cut_square_tiles"
+    "tag": "tastytiles:jet_cut_tiles"
   },
   "result": "tastytiles:jet_cut_square_tile_slab"
 }

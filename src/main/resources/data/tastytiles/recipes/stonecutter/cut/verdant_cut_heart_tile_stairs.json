@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "count": 1,
   "ingredient": {
-    "tag": "tastytiles:verdant_cut_heart_tiles"
+    "tag": "tastytiles:verdant_cut_tiles"
   },
   "result": "tastytiles:verdant_cut_heart_tile_stairs"
 }

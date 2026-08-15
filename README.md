@@ -1,5 +1,5 @@
 Tasty Tiles is a mod for version 1.20.1 of Minecraft. It adds a yummy variety of building blocks focused around tiles. Give your home some cozy ceramic flavor!
-The full list of recipes will be added below (WIP) ~ all blocks have slab, stair, and wall variants either crafted traditionally or through the stonecutter!
+The full list of recipes is shown below ~ all blocks have slab, stair, and wall variants either crafted traditionally or through the stonecutter!
 
 # --- CERAMIC MIXTURE --- <br>
 Used in all base recipes for the tiles! Uses sand, mud, and clay.
@@ -239,4 +239,12 @@ Endleline tiles use endstone and purpur blocks.
 All shown variants crafted through the stonecutter!
 
 <img width="615" height="496" alt="image" src="https://github.com/user-attachments/assets/d4133445-15a1-4772-9f9b-e61357cf7511" />
+<br>
+<br>
+
+# --- EXTRA NOTES --- <br>
+All tile slabs can be converted back into blocks at a 2:1 rate.
+
+<img width="511" height="259" alt="image" src="https://github.com/user-attachments/assets/5fc2db1b-bb30-4cd8-8770-1631157ee65b" />
+
 

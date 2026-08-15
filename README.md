@@ -53,7 +53,7 @@ Day summer tiles use sand and yellow dye.
 <img width="512" height="255" alt="image" src="https://github.com/user-attachments/assets/180f1aa3-ac07-47d3-a6e2-a244a6ac12ad" />
 
 
-All shown vairants crafted through the stonecutter!
+All shown variants crafted through the stonecutter!
 
 <img width="616" height="351" alt="image" src="https://github.com/user-attachments/assets/445cbacc-016f-49c2-ab4f-30864901f7ea" />
 
@@ -70,7 +70,7 @@ Dark pretti tiles use red nether bricks.
 
 <img width="515" height="259" alt="image" src="https://github.com/user-attachments/assets/805f7c1f-7b76-4196-b00d-bb57b4dfc5ca" />
 
-All shown vairants crafted through the stonecutter!
+All shown variants crafted through the stonecutter!
 
 <img width="615" height="354" alt="image" src="https://github.com/user-attachments/assets/d0bcaba2-c770-43b2-a053-c0c505febe66" />
 
@@ -95,6 +95,8 @@ Crisp tiles use nether quartz and different dye colors.
 <img width="513" height="256" alt="image" src="https://github.com/user-attachments/assets/9be4dcfc-728c-46b3-aab0-c7d4293545ed" />
 
 <img width="514" height="253" alt="image" src="https://github.com/user-attachments/assets/f3957a5e-ae4f-42ff-9b8d-24ac1aa78fbe" />
+
+<img width="512" height="260" alt="image" src="https://github.com/user-attachments/assets/f325733c-81e4-4757-9018-12ff55d07bdf" />
 
 Every crisp tile can be crafted using the stonecutter into more vibrant ripe variants, as shown below.
 
@@ -151,13 +153,38 @@ Yellow spring tiles use a dandelion.
 
 <img width="512" height="257" alt="image" src="https://github.com/user-attachments/assets/e0be0047-04cb-4d3b-8f2b-46ca6d625d16" />
 
-All shown vairants crafted through the stonecutter!
+All shown variants crafted through the stonecutter!
 
 <img width="617" height="352" alt="image" src="https://github.com/user-attachments/assets/239db373-5eb6-445b-bdf4-12923251d3d9" />
 
 <img width="619" height="354" alt="image" src="https://github.com/user-attachments/assets/6a29dd21-1252-46e9-974e-b51ad544e933" />
 <br>
 <br>
+
+# --- CUT TILES --- <br>
+Choco cut tiles use soul sand.
+
+<img width="509" height="267" alt="image" src="https://github.com/user-attachments/assets/031da3ae-d3fc-4811-9202-6a0f8c44f758" />
+
+Verdant cut tiles use an ender pearl.
+
+<img width="514" height="260" alt="image" src="https://github.com/user-attachments/assets/80f486b6-5e2c-41b3-886c-e9230aec0e5c" />
+
+Jet cut tiles use coal.
+
+<img width="511" height="260" alt="image" src="https://github.com/user-attachments/assets/823a5ccb-184c-47df-98c0-7bf96f65020d" />
+
+All shown variants crafted through the stonecutter!
+
+<img width="614" height="351" alt="image" src="https://github.com/user-attachments/assets/6ab5dd70-94e7-4709-b4b6-ecd45f3e6b87" />
+
+<img width="616" height="354" alt="image" src="https://github.com/user-attachments/assets/fd83b24d-93cd-4433-9031-9a8fe6676ae8" />
+
+<img width="616" height="353" alt="image" src="https://github.com/user-attachments/assets/9f1022e8-160a-477b-888d-6bd65d11e0de" />
+
+<br>
+<br>
+
 
 # --- AZULEJO TILES --- <br>
 White azulejo tiles use a block of quartz.
@@ -181,7 +208,7 @@ Sandy tiles use smooth sandstone.
 
 <img width="511" height="262" alt="image" src="https://github.com/user-attachments/assets/f6ff4abc-0eda-4c06-b402-b2b7514cb2d6" />
 
-All shown vairants crafted through the stonecutter!
+All shown variants crafted through the stonecutter!
 
 <img width="611" height="350" alt="image" src="https://github.com/user-attachments/assets/ff2bacf8-d082-4691-8cbd-a64dad0e6a19" />
 <br>
@@ -196,7 +223,7 @@ Lavender tiles use purple concrete powder.
 
 <img width="510" height="264" alt="image" src="https://github.com/user-attachments/assets/b0be2a67-ce27-4ead-ae79-d5cf7d8658ab" />
 
-All shown vairants crafted through the stonecutter!
+All shown variants crafted through the stonecutter!
 
 <img width="616" height="427" alt="image" src="https://github.com/user-attachments/assets/51a3096e-6577-4bc0-a59a-3c82c2387975" />
 
@@ -209,7 +236,7 @@ Endleline tiles use endstone and purpur blocks.
 
 <img width="511" height="258" alt="image" src="https://github.com/user-attachments/assets/44be054d-2120-4b2e-9c66-e7d40c58b9e1" />
 
-All shown vairants crafted through the stonecutter!
+All shown variants crafted through the stonecutter!
 
 <img width="615" height="496" alt="image" src="https://github.com/user-attachments/assets/d4133445-15a1-4772-9f9b-e61357cf7511" />
 

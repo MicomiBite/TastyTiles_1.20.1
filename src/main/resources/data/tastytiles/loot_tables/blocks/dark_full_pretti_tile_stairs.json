@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tastytiles:dark_full_pretti_tile_stair"
+          "name": "tastytiles:dark_full_pretti_tile_stairs"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "tastytiles:blocks/dark_full_pretti_tile_stair"
+  "random_sequence": "tastytiles:blocks/dark_full_pretti_tile_stairs"
 }

@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tastytiles:light_posy_pretti_tile_stair"
+          "name": "tastytiles:light_posy_pretti_tile_stairs"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "tastytiles:blocks/light_posy_pretti_tile_stair"
+  "random_sequence": "tastytiles:blocks/light_posy_pretti_tile_stairs"
 }

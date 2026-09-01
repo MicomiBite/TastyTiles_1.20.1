@@ -1,0 +1,25 @@
+{
+  "values": [
+    "tastytiles:glist_tile",
+    "tastytiles:glist_tile_stairs",
+    "tastytiles:glist_tile_wall",
+    "tastytiles:glist_fanciful_tile",
+    "tastytiles:glist_fanciful_tile_stairs",
+    "tastytiles:glist_fanciful_tile_wall",
+    "tastytiles:glist_fan_tile",
+    "tastytiles:glist_fan_tile_stairs",
+    "tastytiles:glist_fan_tile_wall",
+    "tastytiles:glist_floral_tile",
+    "tastytiles:glist_floral_tile_stairs",
+    "tastytiles:glist_floral_tile_wall",
+    "tastytiles:glist_star_tile",
+    "tastytiles:glist_star_tile_stairs",
+    "tastytiles:glist_star_tile_wall",
+    "tastytiles:glist_link_tile",
+    "tastytiles:glist_link_tile_stairs",
+    "tastytiles:glist_link_tile_wall",
+    "tastytiles:glist_scratch_tile",
+    "tastytiles:glist_scratch_tile_stairs",
+    "tastytiles:glist_scratch_tile_wall"
+  ]
+}

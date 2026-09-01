@@ -322,7 +322,20 @@ public class ModItemModelProvider extends ItemModelProvider {
         wallSixItem(ModBlocks.ENDLELINE_ZING_TILE_WALL, ModBlocks.ENDLELINE_ZING_TILE);
         evenSimplerBlockItem(ModBlocks.ENDLELINE_ZUNE_TILE_STAIRS);
         wallSixItem(ModBlocks.ENDLELINE_ZUNE_TILE_WALL, ModBlocks.ENDLELINE_ZUNE_TILE);
-
+        evenSimplerBlockItem(ModBlocks.GLIST_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_TILE_WALL, ModBlocks.GLIST_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_FANCIFUL_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_FANCIFUL_TILE_WALL, ModBlocks.GLIST_FANCIFUL_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_FAN_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_FAN_TILE_WALL, ModBlocks.GLIST_FAN_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_FLORAL_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_FLORAL_TILE_WALL, ModBlocks.GLIST_FLORAL_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_STAR_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_STAR_TILE_WALL, ModBlocks.GLIST_STAR_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_LINK_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_LINK_TILE_WALL, ModBlocks.GLIST_LINK_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_SCRATCH_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_SCRATCH_TILE_WALL, ModBlocks.GLIST_SCRATCH_TILE);
 
     }
 

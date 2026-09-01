@@ -1,16 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "blocks",
-
-  "key": {
-    "A": {"item": "tastytiles:white_azulejo_tile_slab"}
-  },
-  "pattern": [
-    "A",
-    "A"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tastytiles:white_azulejo_tile_slab"
+    },
+    {
+      "item": "tastytiles:white_azulejo_tile_slab"
+    }
   ],
   "result": {
-    "item": "tastytiles:white_azulejo_tile",
-    "count": 1
+    "count": 1,
+    "item": "tastytiles:white_azulejo_tile"
   }
 }

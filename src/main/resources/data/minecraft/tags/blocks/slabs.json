@@ -148,6 +148,13 @@
     "tastytiles:endleline_tower_tile_slab",
     "tastytiles:endleline_turn_tile_slab",
     "tastytiles:endleline_zing_tile_slab",
-    "tastytiles:endleline_zune_tile_slab"
+    "tastytiles:endleline_zune_tile_slab",
+    "tastytiles:glist_tile_slab",
+    "tastytiles:glist_fanciful_tile_slab",
+    "tastytiles:glist_fan_tile_slab",
+    "tastytiles:glist_floral_tile_slab",
+    "tastytiles:glist_star_tile_slab",
+    "tastytiles:glist_link_tile_slab",
+    "tastytiles:glist_scratch_tile_slab"
   ]
 }

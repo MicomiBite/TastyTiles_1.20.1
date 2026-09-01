@@ -1193,5 +1193,61 @@
 
   "block.tastytiles.endleline_zune_tile_wall": "Endleline Zune Tile Wall",
 
+  "block.tastytiles.glist_tile": "Glist Tile",
+
+  "block.tastytiles.glist_tile_slab": "Glist Tile Slab",
+
+  "block.tastytiles.glist_tile_stairs": "Glist Tile Stairs",
+
+  "block.tastytiles.glist_tile_wall": "Glist Tile Wall",
+
+  "block.tastytiles.glist_fanciful_tile": "Glist Fanciful Tile",
+
+  "block.tastytiles.glist_fanciful_tile_slab": "Glist Fanciful Tile Slab",
+
+  "block.tastytiles.glist_fanciful_tile_stairs": "Glist Fanciful Tile Stairs",
+
+  "block.tastytiles.glist_fanciful_tile_wall": "Glist Fanciful Tile Wall",
+
+  "block.tastytiles.glist_fan_tile": "Glist Fan Tile",
+
+  "block.tastytiles.glist_fan_tile_slab": "Glist Fan Tile Slab",
+
+  "block.tastytiles.glist_fan_tile_stairs": "Glist Fan Tile Stairs",
+
+  "block.tastytiles.glist_fan_tile_wall": "Glist Fan Tile Wall",
+
+  "block.tastytiles.glist_floral_tile": "Glist Floral Tile",
+
+  "block.tastytiles.glist_floral_tile_slab": "Glist Floral Tile Slab",
+
+  "block.tastytiles.glist_floral_tile_stairs": "Glist Floral Tile Stairs",
+
+  "block.tastytiles.glist_floral_tile_wall": "Glist Floral Tile Wall",
+
+  "block.tastytiles.glist_star_tile": "Glist Star Tile",
+
+  "block.tastytiles.glist_star_tile_slab": "Glist Star Tile Slab",
+
+  "block.tastytiles.glist_star_tile_stairs": "Glist Star Tile Stairs",
+
+  "block.tastytiles.glist_star_tile_wall": "Glist Star Tile Wall",
+
+  "block.tastytiles.glist_link_tile": "Glist Link Tile",
+
+  "block.tastytiles.glist_link_tile_slab": "Glist Link Tile Slab",
+
+  "block.tastytiles.glist_link_tile_stairs": "Glist Link Tile Stairs",
+
+  "block.tastytiles.glist_link_tile_wall": "Glist Link Tile Wall",
+
+  "block.tastytiles.glist_scratch_tile": "Glist Scratch Tile",
+
+  "block.tastytiles.glist_scratch_tile_slab": "Glist Scratch Tile Slab",
+
+  "block.tastytiles.glist_scratch_tile_stairs": "Glist Scratch Tile Stairs",
+
+  "block.tastytiles.glist_scratch_tile_wall": "Glist Scratch Tile Wall",
+
   "creativetab.tasty_tiles_tab": "Tasty Tiles Tab"
 }

@@ -148,6 +148,13 @@
     "tastytiles:endleline_tower_tile_wall",
     "tastytiles:endleline_turn_tile_wall",
     "tastytiles:endleline_zing_tile_wall",
-    "tastytiles:endleline_zune_tile_wall"
+    "tastytiles:endleline_zune_tile_wall",
+    "tastytiles:glist_tile_wall",
+    "tastytiles:glist_fanciful_tile_wall",
+    "tastytiles:glist_fan_tile_wall",
+    "tastytiles:glist_floral_tile_wall",
+    "tastytiles:glist_star_tile_wall",
+    "tastytiles:glist_link_tile_wall",
+    "tastytiles:glist_scratch_tile_wall"
   ]
 }

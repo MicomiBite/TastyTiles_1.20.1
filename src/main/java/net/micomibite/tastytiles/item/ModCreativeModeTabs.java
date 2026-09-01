@@ -1214,6 +1214,62 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.ENDLELINE_ZUNE_TILE_WALL.get());
 
+            pOutput.accept(ModBlocks.GLIST_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_FANCIFUL_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_FANCIFUL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_FANCIFUL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_FANCIFUL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_FAN_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_FAN_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_FAN_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_FAN_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_FLORAL_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_FLORAL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_FLORAL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_FLORAL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_STAR_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_STAR_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_STAR_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_STAR_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_LINK_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_LINK_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_LINK_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_LINK_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_SCRATCH_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_SCRATCH_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_SCRATCH_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_SCRATCH_TILE_WALL.get());
+
         })
         .build());
 

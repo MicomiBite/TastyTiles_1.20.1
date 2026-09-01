@@ -242,9 +242,23 @@ All shown variants crafted through the stonecutter!
 <br>
 <br>
 
+# --- GLIST TILES --- <br>
+Glist tiles use glowstone blocks.
+
+<img width="516" height="258" alt="image" src="https://github.com/user-attachments/assets/9df63386-19e8-46b3-8def-4f8d8916a52a" />
+
+All shown variants crafted through the stonecutter!
+
+<img width="622" height="581" alt="image" src="https://github.com/user-attachments/assets/612bc2f8-fca0-468a-937f-5be6608a0310" />
+<img width="588" height="160" alt="image" src="https://github.com/user-attachments/assets/97df028d-15c7-48d5-bcc4-b917c0dafdd8" />
+<br>
+<br>
+
+
 # --- EXTRA NOTES --- <br>
 All tile slabs can be converted back into blocks at a 2:1 rate.
 
-<img width="511" height="259" alt="image" src="https://github.com/user-attachments/assets/5fc2db1b-bb30-4cd8-8770-1631157ee65b" />
+<img width="514" height="256" alt="image" src="https://github.com/user-attachments/assets/8f729fcb-8e6b-4f30-8a91-53a0e8b131a1" />
+
 
 

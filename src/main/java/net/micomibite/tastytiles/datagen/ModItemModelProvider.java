@@ -336,6 +336,34 @@ public class ModItemModelProvider extends ItemModelProvider {
         wallSixItem(ModBlocks.GLIST_LINK_TILE_WALL, ModBlocks.GLIST_LINK_TILE);
         evenSimplerBlockItem(ModBlocks.GLIST_SCRATCH_TILE_STAIRS);
         wallSixItem(ModBlocks.GLIST_SCRATCH_TILE_WALL, ModBlocks.GLIST_SCRATCH_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_NEUTRAL_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_NEUTRAL_TILE_WALL, ModBlocks.GLIST_NEUTRAL_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE_WALL, ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_NEUTRAL_FAN_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_NEUTRAL_FAN_TILE_WALL, ModBlocks.GLIST_NEUTRAL_FAN_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_NEUTRAL_FLORAL_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_NEUTRAL_FLORAL_TILE_WALL, ModBlocks.GLIST_NEUTRAL_FLORAL_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_NEUTRAL_STAR_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_NEUTRAL_STAR_TILE_WALL, ModBlocks.GLIST_NEUTRAL_STAR_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_NEUTRAL_LINK_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_NEUTRAL_LINK_TILE_WALL, ModBlocks.GLIST_NEUTRAL_LINK_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE_WALL, ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_COLD_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_COLD_TILE_WALL, ModBlocks.GLIST_COLD_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_COLD_FANCIFUL_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_COLD_FANCIFUL_TILE_WALL, ModBlocks.GLIST_COLD_FANCIFUL_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_COLD_FAN_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_COLD_FAN_TILE_WALL, ModBlocks.GLIST_COLD_FAN_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_COLD_FLORAL_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_COLD_FLORAL_TILE_WALL, ModBlocks.GLIST_COLD_FLORAL_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_COLD_STAR_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_COLD_STAR_TILE_WALL, ModBlocks.GLIST_COLD_STAR_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_COLD_LINK_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_COLD_LINK_TILE_WALL, ModBlocks.GLIST_COLD_LINK_TILE);
+        evenSimplerBlockItem(ModBlocks.GLIST_COLD_SCRATCH_TILE_STAIRS);
+        wallSixItem(ModBlocks.GLIST_COLD_SCRATCH_TILE_WALL, ModBlocks.GLIST_COLD_SCRATCH_TILE);
 
     }
 

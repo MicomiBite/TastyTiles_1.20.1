@@ -689,6 +689,76 @@ public class ModBlockStateProvider extends BlockStateProvider {
         genSimpleSlabsSBI(ModBlocks.GLIST_SCRATCH_TILE_SLAB.get(), ModBlocks.GLIST_SCRATCH_TILE.get());
         stairsBlock(((StairBlock) ModBlocks.GLIST_SCRATCH_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_SCRATCH_TILE.get()));
         wallBlock(((WallBlock) ModBlocks.GLIST_SCRATCH_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_SCRATCH_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_NEUTRAL_TILE.get(), buildSimpleBlockWithRenderType("glist_neutral_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_NEUTRAL_TILE_SLAB.get(), ModBlocks.GLIST_NEUTRAL_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_NEUTRAL_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_NEUTRAL_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE.get(), buildSimpleBlockWithRenderType("glist_neutral_fanciful_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE_SLAB.get(), ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_NEUTRAL_FAN_TILE.get(), buildSimpleBlockWithRenderType("glist_neutral_fan_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_NEUTRAL_FAN_TILE_SLAB.get(), ModBlocks.GLIST_NEUTRAL_FAN_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_NEUTRAL_FAN_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_FAN_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_NEUTRAL_FAN_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_FAN_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_NEUTRAL_FLORAL_TILE.get(), buildSimpleBlockWithRenderType("glist_neutral_floral_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_NEUTRAL_FLORAL_TILE_SLAB.get(), ModBlocks.GLIST_NEUTRAL_FLORAL_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_NEUTRAL_FLORAL_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_FLORAL_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_NEUTRAL_FLORAL_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_FLORAL_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_NEUTRAL_STAR_TILE.get(), buildSimpleBlockWithRenderType("glist_neutral_star_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_NEUTRAL_STAR_TILE_SLAB.get(), ModBlocks.GLIST_NEUTRAL_STAR_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_NEUTRAL_STAR_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_STAR_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_NEUTRAL_STAR_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_STAR_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_NEUTRAL_LINK_TILE.get(), buildSimpleBlockWithRenderType("glist_neutral_link_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_NEUTRAL_LINK_TILE_SLAB.get(), ModBlocks.GLIST_NEUTRAL_LINK_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_NEUTRAL_LINK_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_LINK_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_NEUTRAL_LINK_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_LINK_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE.get(), buildSimpleBlockWithRenderType("glist_neutral_scratch_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE_SLAB.get(), ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_COLD_TILE.get(), buildSimpleBlockWithRenderType("glist_cold_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_COLD_TILE_SLAB.get(), ModBlocks.GLIST_COLD_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_COLD_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_COLD_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_COLD_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_COLD_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_COLD_FANCIFUL_TILE.get(), buildSimpleBlockWithRenderType("glist_cold_fanciful_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_COLD_FANCIFUL_TILE_SLAB.get(), ModBlocks.GLIST_COLD_FANCIFUL_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_COLD_FANCIFUL_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_COLD_FANCIFUL_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_COLD_FANCIFUL_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_COLD_FANCIFUL_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_COLD_FAN_TILE.get(), buildSimpleBlockWithRenderType("glist_cold_fan_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_COLD_FAN_TILE_SLAB.get(), ModBlocks.GLIST_COLD_FAN_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_COLD_FAN_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_COLD_FAN_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_COLD_FAN_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_COLD_FAN_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_COLD_FLORAL_TILE.get(), buildSimpleBlockWithRenderType("glist_cold_floral_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_COLD_FLORAL_TILE_SLAB.get(), ModBlocks.GLIST_COLD_FLORAL_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_COLD_FLORAL_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_COLD_FLORAL_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_COLD_FLORAL_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_COLD_FLORAL_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_COLD_STAR_TILE.get(), buildSimpleBlockWithRenderType("glist_cold_star_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_COLD_STAR_TILE_SLAB.get(), ModBlocks.GLIST_COLD_STAR_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_COLD_STAR_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_COLD_STAR_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_COLD_STAR_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_COLD_STAR_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_COLD_LINK_TILE.get(), buildSimpleBlockWithRenderType("glist_cold_link_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_COLD_LINK_TILE_SLAB.get(), ModBlocks.GLIST_COLD_LINK_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_COLD_LINK_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_COLD_LINK_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_COLD_LINK_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_COLD_LINK_TILE.get()));
+
+        genSixSBI(ModBlocks.GLIST_COLD_SCRATCH_TILE.get(), buildSimpleBlockWithRenderType("glist_cold_scratch_tile", "solid") );
+        genSimpleSlabsSBI(ModBlocks.GLIST_COLD_SCRATCH_TILE_SLAB.get(), ModBlocks.GLIST_COLD_SCRATCH_TILE.get());
+        stairsBlock(((StairBlock) ModBlocks.GLIST_COLD_SCRATCH_TILE_STAIRS.get()), blockTexture(ModBlocks.GLIST_COLD_SCRATCH_TILE.get()));
+        wallBlock(((WallBlock) ModBlocks.GLIST_COLD_SCRATCH_TILE_WALL.get()), blockTexture(ModBlocks.GLIST_COLD_SCRATCH_TILE.get()));
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

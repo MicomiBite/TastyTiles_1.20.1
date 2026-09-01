@@ -1270,6 +1270,118 @@ public class ModCreativeModeTabs {
 
             pOutput.accept(ModBlocks.GLIST_SCRATCH_TILE_WALL.get());
 
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FAN_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FAN_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FAN_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FAN_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FLORAL_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FLORAL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FLORAL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_FLORAL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_STAR_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_STAR_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_STAR_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_STAR_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_LINK_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_LINK_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_LINK_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_LINK_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FANCIFUL_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FANCIFUL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FANCIFUL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FANCIFUL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FAN_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FAN_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FAN_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FAN_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FLORAL_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FLORAL_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FLORAL_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_FLORAL_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_STAR_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_STAR_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_STAR_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_STAR_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_LINK_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_LINK_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_LINK_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_LINK_TILE_WALL.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_SCRATCH_TILE.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_SCRATCH_TILE_SLAB.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_SCRATCH_TILE_STAIRS.get());
+
+            pOutput.accept(ModBlocks.GLIST_COLD_SCRATCH_TILE_WALL.get());
+
         })
         .build());
 

@@ -2435,6 +2435,216 @@ public class ModBlocks {
     public static final RegistryObject<Block> GLIST_SCRATCH_TILE_WALL = registerBlock("glist_scratch_tile_wall",
             () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
 
+    //GLIST NEUTRAL TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_NEUTRAL_TILE = registerBlock("glist_neutral_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_NEUTRAL_TILE_SLAB = registerBlock("glist_neutral_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_TILE_STAIRS = registerBlock("glist_neutral_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_NEUTRAL_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_TILE_WALL = registerBlock("glist_neutral_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST NEUTRAL FANCIFUL TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_NEUTRAL_FANCIFUL_TILE = registerBlock("glist_neutral_fanciful_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_NEUTRAL_FANCIFUL_TILE_SLAB = registerBlock("glist_neutral_fanciful_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_FANCIFUL_TILE_STAIRS = registerBlock("glist_neutral_fanciful_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_NEUTRAL_FANCIFUL_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_FANCIFUL_TILE_WALL = registerBlock("glist_neutral_fanciful_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST NEUTRAL FAN TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_NEUTRAL_FAN_TILE = registerBlock("glist_neutral_fan_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_NEUTRAL_FAN_TILE_SLAB = registerBlock("glist_neutral_fan_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_FAN_TILE_STAIRS = registerBlock("glist_neutral_fan_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_NEUTRAL_FAN_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_FAN_TILE_WALL = registerBlock("glist_neutral_fan_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST NEUTRAL FLORAL TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_NEUTRAL_FLORAL_TILE = registerBlock("glist_neutral_floral_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_NEUTRAL_FLORAL_TILE_SLAB = registerBlock("glist_neutral_floral_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_FLORAL_TILE_STAIRS = registerBlock("glist_neutral_floral_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_NEUTRAL_FLORAL_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_FLORAL_TILE_WALL = registerBlock("glist_neutral_floral_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST NEUTRAL STAR TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_NEUTRAL_STAR_TILE = registerBlock("glist_neutral_star_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_NEUTRAL_STAR_TILE_SLAB = registerBlock("glist_neutral_star_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_STAR_TILE_STAIRS = registerBlock("glist_neutral_star_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_NEUTRAL_STAR_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_STAR_TILE_WALL = registerBlock("glist_neutral_star_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST NEUTRAL LINK TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_NEUTRAL_LINK_TILE = registerBlock("glist_neutral_link_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_NEUTRAL_LINK_TILE_SLAB = registerBlock("glist_neutral_link_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_LINK_TILE_STAIRS = registerBlock("glist_neutral_link_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_NEUTRAL_LINK_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_LINK_TILE_WALL = registerBlock("glist_neutral_link_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST NEUTRAL SCRATCH TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_NEUTRAL_SCRATCH_TILE = registerBlock("glist_neutral_scratch_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_NEUTRAL_SCRATCH_TILE_SLAB = registerBlock("glist_neutral_scratch_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_SCRATCH_TILE_STAIRS = registerBlock("glist_neutral_scratch_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_NEUTRAL_SCRATCH_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_NEUTRAL_SCRATCH_TILE_WALL = registerBlock("glist_neutral_scratch_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST COLD TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_COLD_TILE = registerBlock("glist_cold_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_COLD_TILE_SLAB = registerBlock("glist_cold_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_COLD_TILE_STAIRS = registerBlock("glist_cold_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_COLD_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_COLD_TILE_WALL = registerBlock("glist_cold_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST COLD FANCIFUL TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_COLD_FANCIFUL_TILE = registerBlock("glist_cold_fanciful_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_COLD_FANCIFUL_TILE_SLAB = registerBlock("glist_cold_fanciful_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_COLD_FANCIFUL_TILE_STAIRS = registerBlock("glist_cold_fanciful_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_COLD_FANCIFUL_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_COLD_FANCIFUL_TILE_WALL = registerBlock("glist_cold_fanciful_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST COLD FAN TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_COLD_FAN_TILE = registerBlock("glist_cold_fan_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_COLD_FAN_TILE_SLAB = registerBlock("glist_cold_fan_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_COLD_FAN_TILE_STAIRS = registerBlock("glist_cold_fan_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_COLD_FAN_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_COLD_FAN_TILE_WALL = registerBlock("glist_cold_fan_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST COLD FLORAL TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_COLD_FLORAL_TILE = registerBlock("glist_cold_floral_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_COLD_FLORAL_TILE_SLAB = registerBlock("glist_cold_floral_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_COLD_FLORAL_TILE_STAIRS = registerBlock("glist_cold_floral_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_COLD_FLORAL_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_COLD_FLORAL_TILE_WALL = registerBlock("glist_cold_floral_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST COLD STAR TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_COLD_STAR_TILE = registerBlock("glist_cold_star_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_COLD_STAR_TILE_SLAB = registerBlock("glist_cold_star_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_COLD_STAR_TILE_STAIRS = registerBlock("glist_cold_star_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_COLD_STAR_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_COLD_STAR_TILE_WALL = registerBlock("glist_cold_star_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST COLD LINK TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_COLD_LINK_TILE = registerBlock("glist_cold_link_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_COLD_LINK_TILE_SLAB = registerBlock("glist_cold_link_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_COLD_LINK_TILE_STAIRS = registerBlock("glist_cold_link_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_COLD_LINK_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_COLD_LINK_TILE_WALL = registerBlock("glist_cold_link_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    //GLIST COLD SCRATCH TILES
+    public static final RegistryObject<ModBlockStateProvider.SixDirectionBlock> GLIST_COLD_SCRATCH_TILE = registerBlock("glist_cold_scratch_tile",
+            () -> new ModBlockStateProvider.SixDirectionBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+    public static final RegistryObject<Block> GLIST_COLD_SCRATCH_TILE_SLAB = registerBlock("glist_cold_scratch_tile_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)) {
+            });
+
+    public static final RegistryObject<Block> GLIST_COLD_SCRATCH_TILE_STAIRS = registerBlock("glist_cold_scratch_tile_stairs",
+            () -> new StairBlock(() -> ModBlocks.GLIST_COLD_SCRATCH_TILE.get().defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
+    public static final RegistryObject<Block> GLIST_COLD_SCRATCH_TILE_WALL = registerBlock("glist_cold_scratch_tile_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GLOWSTONE).sound(SoundType.GLASS)));
+
 
     //Functions for making this actually work
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T>block) {

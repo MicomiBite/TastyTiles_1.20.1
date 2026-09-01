@@ -1249,5 +1249,117 @@
 
   "block.tastytiles.glist_scratch_tile_wall": "Glist Scratch Tile Wall",
 
+  "block.tastytiles.glist_neutral_tile": "Glist Neutral Tile",
+
+  "block.tastytiles.glist_neutral_tile_slab": "Glist Neutral Tile Slab",
+
+  "block.tastytiles.glist_neutral_tile_stairs": "Glist Neutral Tile Stairs",
+
+  "block.tastytiles.glist_neutral_tile_wall": "Glist Neutral Tile Wall",
+
+  "block.tastytiles.glist_neutral_fanciful_tile": "Glist Neutral Fanciful Tile",
+
+  "block.tastytiles.glist_neutral_fanciful_tile_slab": "Glist Neutral Fanciful Tile Slab",
+
+  "block.tastytiles.glist_neutral_fanciful_tile_stairs": "Glist Neutral Fanciful Tile Stairs",
+
+  "block.tastytiles.glist_neutral_fanciful_tile_wall": "Glist Neutral Fanciful Tile Wall",
+
+  "block.tastytiles.glist_neutral_fan_tile": "Glist Neutral Fan Tile",
+
+  "block.tastytiles.glist_neutral_fan_tile_slab": "Glist Neutral Fan Tile Slab",
+
+  "block.tastytiles.glist_neutral_fan_tile_stairs": "Glist Neutral Fan Tile Stairs",
+
+  "block.tastytiles.glist_neutral_fan_tile_wall": "Glist Neutral Fan Tile Wall",
+
+  "block.tastytiles.glist_neutral_floral_tile": "Glist Neutral Floral Tile",
+
+  "block.tastytiles.glist_neutral_floral_tile_slab": "Glist Neutral Floral Tile Slab",
+
+  "block.tastytiles.glist_neutral_floral_tile_stairs": "Glist Neutral Floral Tile Stairs",
+
+  "block.tastytiles.glist_neutral_floral_tile_wall": "Glist Neutral Floral Tile Wall",
+
+  "block.tastytiles.glist_neutral_star_tile": "Glist Neutral Star Tile",
+
+  "block.tastytiles.glist_neutral_star_tile_slab": "Glist Neutral Star Tile Slab",
+
+  "block.tastytiles.glist_neutral_star_tile_stairs": "Glist Neutral Star Tile Stairs",
+
+  "block.tastytiles.glist_neutral_star_tile_wall": "Glist Neutral Star Tile Wall",
+
+  "block.tastytiles.glist_neutral_link_tile": "Glist Neutral Link Tile",
+
+  "block.tastytiles.glist_neutral_link_tile_slab": "Glist Neutral Link Tile Slab",
+
+  "block.tastytiles.glist_neutral_link_tile_stairs": "Glist Neutral Link Tile Stairs",
+
+  "block.tastytiles.glist_neutral_link_tile_wall": "Glist Neutral Link Tile Wall",
+
+  "block.tastytiles.glist_neutral_scratch_tile": "Glist Neutral Scratch Tile",
+
+  "block.tastytiles.glist_neutral_scratch_tile_slab": "Glist Neutral Scratch Tile Slab",
+
+  "block.tastytiles.glist_neutral_scratch_tile_stairs": "Glist Neutral Scratch Tile Stairs",
+
+  "block.tastytiles.glist_neutral_scratch_tile_wall": "Glist Neutral Scratch Tile Wall",
+
+  "block.tastytiles.glist_cold_tile": "Glist Cold Tile",
+
+  "block.tastytiles.glist_cold_tile_slab": "Glist Cold Tile Slab",
+
+  "block.tastytiles.glist_cold_tile_stairs": "Glist Cold Tile Stairs",
+
+  "block.tastytiles.glist_cold_tile_wall": "Glist Cold Tile Wall",
+
+  "block.tastytiles.glist_cold_fanciful_tile": "Glist Cold Fanciful Tile",
+
+  "block.tastytiles.glist_cold_fanciful_tile_slab": "Glist Cold Fanciful Tile Slab",
+
+  "block.tastytiles.glist_cold_fanciful_tile_stairs": "Glist Cold Fanciful Tile Stairs",
+
+  "block.tastytiles.glist_cold_fanciful_tile_wall": "Glist Cold Fanciful Tile Wall",
+
+  "block.tastytiles.glist_cold_fan_tile": "Glist Cold Fan Tile",
+
+  "block.tastytiles.glist_cold_fan_tile_slab": "Glist Cold Fan Tile Slab",
+
+  "block.tastytiles.glist_cold_fan_tile_stairs": "Glist Cold Fan Tile Stairs",
+
+  "block.tastytiles.glist_cold_fan_tile_wall": "Glist Cold Fan Tile Wall",
+
+  "block.tastytiles.glist_cold_floral_tile": "Glist Cold Floral Tile",
+
+  "block.tastytiles.glist_cold_floral_tile_slab": "Glist Cold Floral Tile Slab",
+
+  "block.tastytiles.glist_cold_floral_tile_stairs": "Glist Cold Floral Tile Stairs",
+
+  "block.tastytiles.glist_cold_floral_tile_wall": "Glist Cold Floral Tile Wall",
+
+  "block.tastytiles.glist_cold_star_tile": "Glist Cold Star Tile",
+
+  "block.tastytiles.glist_cold_star_tile_slab": "Glist Cold Star Tile Slab",
+
+  "block.tastytiles.glist_cold_star_tile_stairs": "Glist Cold Star Tile Stairs",
+
+  "block.tastytiles.glist_cold_star_tile_wall": "Glist Cold Star Tile Wall",
+
+  "block.tastytiles.glist_cold_link_tile": "Glist Cold Link Tile",
+
+  "block.tastytiles.glist_cold_link_tile_slab": "Glist Cold Link Tile Slab",
+
+  "block.tastytiles.glist_cold_link_tile_stairs": "Glist Cold Link Tile Stairs",
+
+  "block.tastytiles.glist_cold_link_tile_wall": "Glist Cold Link Tile Wall",
+
+  "block.tastytiles.glist_cold_scratch_tile": "Glist Cold Scratch Tile",
+
+  "block.tastytiles.glist_cold_scratch_tile_slab": "Glist Cold Scratch Tile Slab",
+
+  "block.tastytiles.glist_cold_scratch_tile_stairs": "Glist Cold Scratch Tile Stairs",
+
+  "block.tastytiles.glist_cold_scratch_tile_wall": "Glist Cold Scratch Tile Wall",
+
   "creativetab.tasty_tiles_tab": "Tasty Tiles Tab"
 }
